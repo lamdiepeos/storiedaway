@@ -1,0 +1,15 @@
+SOURCE REFERENCE
+
+Episode ID: ep-002-twin-locket-reveal
+Story Slug: twin-locket-reveal
+Raw Source File: C:\Users\FPT\Downloads\test.json
+
+Link web 01: https://www.facebook.com/reel/1305643191139744/
+Link web 02: https://fullstory.fun/2026/06/02/%f0%9f%8e%ac-part-2-the-twin-they-left-hungry-in-the-street/
+Link media 01: https://scontent.fdad3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMErDVeTMXH4fp1_K3mElV-nvmzTOxOzqzqLqBo9gE3jThkRxwOVg1siXgeHOwhTpc1XIUQWnCtjif7DcWQxhWiqT6hGhl3NvyTHYn5Xmi90Q.mp4?_nc_cat=103&_nc_oc=AdpMNKDGX0cKBhoLstsQ6IrHS7VFr7Am8dh2SFx_ffuK7mZw77K2Vil3whuYxvteM-GYYeArcj5joKOx6jWMp8hx&_nc_sid=5e9851&_nc_ht=scontent.fdad3-1.fna.fbcdn.net&_nc_ohc=t3Ctpupa7m8Q7kNvwF-GUvk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MzU5MDUyMjQ5ODIxMDAsImFzc2V0X2FnZV9kYXlzIjo0MCwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6d8738d2e05e92bb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82QjRDREVGMjRCMzU0RjJGN0JGRjcxNkEzNUU0REJBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NDA2NjU5NjBCQjdGMTkxMzMwNkY4NUI5M0MyRTgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACao-b_Vubm6BRUCKAJDMywXQC3U_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZSeAQA&_nc_gid=IccEwEf1kn9M-0fAaFFT_A&_nc_ss=7b2a8&_nc_zt=28&_nc_eui2=AeHjH1C_1EBUO73mhCCd2RAUME9lablWsTAwT2VpuVaxMEVL4587WXlO4EIRn-Jn6Q46LA-o2Z2siLKw2omRpERS&oh=00_AQCUa-xJp4AECCzwSdqVAMHgZdNcqqeAOi1cYVnb1p1m0A&oe=6A5A2239&bitrate=1731493&tag=dash_h264-basic-gen2_720p
+
+Notes:
+- Source platform: Facebook
+- Source author: Story Makers
+- Source post ends with a continuation cliffhanger: "Part 2 in the comments"
+- Comment trail includes a continuation link and multiple audience signals asking for the next part / longer version

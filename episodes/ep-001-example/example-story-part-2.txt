@@ -1,0 +1,17 @@
+PART TEMPLATE
+
+Episode ID: ep-001-example
+Story Slug: example-story
+Part Number: 2
+
+ROLE OF THIS PART
+- Continue the story progression from Part 1.
+- Preserve continuity of tone, stakes, and narrative logic.
+
+PART TEXT
+
+[Write Part 2 here]
+
+TRANSITION OUT
+
+End this part at a clean suspense or narrative handoff point that leads naturally into the next part.

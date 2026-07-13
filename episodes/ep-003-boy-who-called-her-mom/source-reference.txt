@@ -1,0 +1,20 @@
+Episode ID: ep-003-boy-who-called-her-mom
+Story Slug: boy-who-called-her-mom
+
+Local source 01: E:\EOS\EOS-StoryTraffic\test.json
+Link web 01: https://www.facebook.com/reel/2071425120463668
+Link web 02 (captured continuation link, not consulted): https://fullstory.fun/2026/06/20/%f0%9f%8e%ac-part-2-the-son-she-walked-past/
+
+Source platform: Facebook
+Source author: Story Makers
+Scraped at: 2026-07-13T07:18:13.860Z
+
+Normalized engagement metrics:
+Likes: unavailable
+Comments: unavailable
+Shares: unavailable
+
+Captured source comments: 6
+Source warning: post_time_missing
+
+Production scope: Only story text, metadata, links, and metrics contained directly in test.json were used.

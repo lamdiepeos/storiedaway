@@ -1,0 +1,18 @@
+PART TEMPLATE
+
+Episode ID: ep-001-example
+Story Slug: example-story
+Part Number: 1
+
+ROLE OF THIS PART
+- Opening section.
+- Must begin with the final Super Hook.
+- Must align exactly with `video-intro.md`.
+
+PART TEXT
+
+[Write Part 1 here]
+
+TRANSITION OUT
+
+End this part at a clean suspense or narrative handoff point that leads naturally into Part 2.

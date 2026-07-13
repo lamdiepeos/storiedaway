@@ -1,0 +1,40 @@
+EPISODE FILE TEMPLATE
+
+Episode ID: ep-001-example
+Story Slug: example-story
+
+SOURCE STORY
+- Source title:
+- Source URL or identifier:
+- Source capture file:
+- Original hook excerpt:
+
+NARRATIVE SPINE
+- Core premise:
+- Main conflict:
+- Key emotional driver:
+- Non-negotiable source-grounded facts:
+
+SUPER HOOK
+Write the rewritten opening here. It must be optimized for retention and virality while preserving the original narrative spine.
+
+FULL REWRITTEN STORY
+
+[Opening]
+Begin with the final Super Hook. This opening must align with `video-intro.md` and Part 1.
+
+[Development]
+Expand the plot with explicit progression, continuity, and scene-to-scene logic.
+
+[Ending]
+Deliver a concrete, comprehensive ending. Do not leave the story unresolved or cut off midway.
+
+SEGMENTATION NOTE
+This full-story file is the master text. Break it into sequential `example-story-part-N.txt` files that preserve order and maintain clean transitions between parts.
+
+QA CHECKLIST
+- Super Hook is materially stronger than the source opening.
+- Core narrative spine is preserved.
+- No invented plot foundation replaces the scraped source.
+- Ending is complete and satisfying.
+- Tone and style are consistent through the episode.

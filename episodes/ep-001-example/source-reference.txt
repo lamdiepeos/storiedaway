@@ -1,0 +1,13 @@
+SOURCE REFERENCE TEMPLATE
+
+Episode ID: ep-001-example
+Story Slug: example-story
+
+Link web 01:
+Link web 02:
+Link web 03:
+
+Notes:
+- Record the original scraped story URLs here.
+- Keep one source per line using a stable label format such as `Link web 01: https://...`.
+- If there are mirrored or backup sources, list them below the primary source entries.

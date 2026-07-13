@@ -1,0 +1,17 @@
+PART TEMPLATE
+
+Episode ID: ep-001-example
+Story Slug: example-story
+Part Number: 3
+
+ROLE OF THIS PART
+- Continue or conclude a later segment of the story.
+- Extend the plot toward a concrete ending.
+
+PART TEXT
+
+[Write Part 3 here]
+
+TRANSITION OUT
+
+If this is not the final part, end with a clean handoff. If this is the final part, close the story with a concrete, comprehensive ending.
