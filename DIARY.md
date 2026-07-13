@@ -49,3 +49,25 @@
 - Replaced the single-shot video format with three cinematic scenes using hard cuts at 3s and 6s, distinct camera angles, and dialogue at approximately 1.5s, 4.5s, and 8s.
 - Required all video dialogue to be copied from the finalized story and retained Frame 0 alignment between the keyframe and Scene 1.
 - Applied the new format to Episode 003, the master template, and future episode rules.
+
+## 2026-07-13 - Compact 15-Second Trailer Formula
+- Replaced the verbose 10-second, three-scene prompt formula for future episodes with one compact 15-second paragraph containing five independent three-second scenes.
+- Defined the trailer arc as opening mystery, inciting incident, escalation, emotional consequence, and twist/final sting, joined by explicit cinematic hard cuts.
+- Required short dialogue copied exactly from different parts of the finalized story, concise sound design, and an epic cinematic music arc that ducks beneath dialogue.
+- Updated the master `prompt.md` and `video-intro.md` templates while preserving completed episode prompts as historical production artifacts.
+
+## 2026-07-13 - Episode 004 Intake Blocked
+- Episode 004 was requested from workspace `test.json`, but the referenced file is empty at 0 bytes and contains no source facts, links, dialogue, or metrics.
+- Deferred episode creation rather than inventing a plot foundation; intake can resume as soon as the populated JSON payload is available.
+
+## 2026-07-13 - Episode 004 Completed
+- Resolved the intake blocker when the populated source payload became available as workspace `ep4.json`.
+- Created `ep-004-boy-outside-grand-hotel` using only the JSON's Facebook caption, captured comments, links, warnings, and normalized metrics.
+- Preserved the luxury-hotel sandwich encounter, identical boys, hospital bracelet, "only one baby survived" claim, and abandonment accusation as the narrative spine.
+- Expanded the cliffhanger through DNA proof, hospital-record fraud, legal accountability, trauma-aware reunification, restored custody, and a concrete long-term family ending.
+- Packaged a 2,000-plus-word full story, three sequential parts, source reference, publishing metadata, generation trace, Frame 0 keyframe prompt, and the first episode-level 15-second five-scene trailer prompt.
+
+## 2026-07-13 - Exact Zero-Second Keyframe Correction
+- Clarified that a keyframe must depict the exact frozen state at 0 seconds before any first-scene action or dialogue begins, not a representative image from the middle of the 0s-3s beat.
+- Updated the master prompt and video-intro templates so every opening scene explicitly animates forward from the keyframe's locked characters, props, positions, lighting, and camera angle.
+- Replaced Episode 004's sandwich-offering keyframe with the true starting state: Ethan holds a closed lunch bag while Noah remains unaware of the food.

@@ -1,13 +1,7 @@
 # Production Prompt Hub (ep-XXX)
 
-## 1. Keyframe Image Prompt (Streamlined)
-Cinematic realism, 9:16 vertical frame, [opening lighting]. [Main characters, exact clothing, and opening action] in [opening location]. In the background, [secondary subject at the exact Frame 0 position]. [Camera style], movie lighting, raw film grain, [core visual contrast], highly detailed.
+## Keyframe Image Prompt
+Cinematic realism, 9:16 vertical frame, [opening lighting]. At the exact 0-second starting frame, [main characters in exact clothing, frozen positions, and initial poses before any action or dialogue begins] in [opening location]. [Props in their initial state and secondary subjects at exact starting positions]. [Camera style], movie lighting, raw film grain, [core visual contrast], highly detailed.
 
-## 2. 10-Second Video Prompt (Cinematic Multi-Scene Drama)
-**Global Style:** Cinematic live-action realism, 9:16 vertical frame, raw film grain, high-tension psychological drama, intense color grading, shallow depth of field.
-
-**Timeline & Scene Breakdown:**
-- **0s-3s (Scene 1 - The Confrontation/Opening Beat):** [Camera angle matching the Keyframe Image]. [Character A] confronts [Character B] in [specific setting]. At 1.5s, [Character A] delivers Audio Dialogue: "[First exact line from the finalized story]." Sound: [urgent environmental sound].
-- **3s-6s (Scene 2 - The Escalation/Hard Cut):** Hard cut to [high-tension camera angle]. [Character B or C] reacts or collapses emotionally in [specific setting]. At 4.5s, [Character B or C] delivers Audio Dialogue: "[Second exact line from the finalized story]." Sound: [abrupt physical sound and breathing].
-- **6s-10s (Scene 3 - The Climax/The Twist Reveal):** Hard cut to [climax camera angle]. [Shocking truth, object, document, face, or signature] is exposed. Characters freeze in stunned silence. At 8s, [speaker] delivers Audio Dialogue: "[Final exact line from the finalized story]." Video ends on a sharp, dramatic locked stare.
-- **Sound Specification:** Multi-layered sound effects. Sudden dramatic stings on hard cuts, breathing gasps, diegetic background chaos fading into dead silence on the final line. No music.
+## 15-Second Video Prompt
+Cinematic trailer, 9:16, five distinct scenes, dramatic hard cuts, [concise visual style]. 0-3s: starting exactly from the keyframe's frozen positions and prop states, [first action begins; opening mystery and short exact story dialogue]. 3-6s: hard cut to [inciting incident; visible reaction and short exact story dialogue]. 6-9s: hard cut to [escalation or first revelation; one focused action and short exact story dialogue]. 9-12s: hard cut to [emotional consequence; relationship reaction and short exact story dialogue]. 12-15s: hard cut to [twist or final sting; strongest short exact story dialogue]. Video ends on [unresolved image or cut to black]. Sound: [key environmental sounds, transition impacts, and a silence cue]. Music: [dark cinematic opening building into epic tension, ducking beneath dialogue, and ending with silence or one deep impact].

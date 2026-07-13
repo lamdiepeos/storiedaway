@@ -1,0 +1,25 @@
+SOURCE REFERENCE
+
+Episode ID: ep-004-boy-outside-grand-hotel
+Story Slug: boy-outside-grand-hotel
+
+Local source 01: E:\EOS\EOS-StoryTraffic\ep4.json
+Link web 01: https://www.facebook.com/reel/2195613404586822
+Link web 02 (captured continuation link, not consulted): https://liwes.online/part-2-the-truth-she-buried/
+
+Source platform: Facebook
+Source author: Jobs Title
+Scraped at: 2026-07-13T08:13:19.175Z
+
+Normalized engagement metrics:
+Likes: unavailable
+Comments: unavailable
+Shares: unavailable
+
+Captured comments: 4
+Scraper warning: post time link was not found
+
+Traceability note:
+- Only the local `ep4.json` payload was used for source facts, links, comments, and evaluation.
+- The captured continuation page was not consulted.
+- The caption contains display-count text, but normalized engagement fields are null; no numeric performance claim was used.

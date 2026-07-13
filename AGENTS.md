@@ -6,7 +6,7 @@
 - Never invent new plot foundations during ranking or selection. Evaluate only what was actually scraped and documented.
 - During rewriting, transform the original opening into a stronger "Super Hook" optimized for CTR and virality while preserving the core narrative spine.
 - Final story outputs must be significantly expanded and must end concretely and comprehensively. No unresolved or half-story deliverables.
-- The 10-second intro video script must match the exact text of the newly generated Super Hook lines.
+- The 15-second trailer must open from the finalized Super Hook's story premise, and every spoken line must be copied exactly from the finalized story. Never invent trailer-only dialogue.
 - Every candidate story must carry a traceable source record and evaluation notes.
 - Apply QA gates before any publish-ready output: hook fidelity and strength, ending completeness, tone consistency, and asset completeness.
 - Never delete or overwrite collected source material without explicit user approval.
@@ -27,16 +27,18 @@
 - Every episode folder must include `source-reference.txt` with the original scraped links.
 - Do not store the story as a single generic markdown draft. Generate a slug-based full-story text file and sequential part files: `[story-slug]-full-story.txt`, `[story-slug]-part-1.txt`, `[story-slug]-part-2.txt`, and so on.
 - Every episode folder must include `prompt.md` as the dedicated production hub for text-to-image and text-to-video generation.
-- Keep `prompt.md` hyper-minimal with exactly two sections: `Keyframe Image Prompt` and `10-Second Video Prompt`. Do not add episode metadata, explanations, production notes, or separate constraint sections.
+- Keep `prompt.md` hyper-minimal with exactly two sections: `Keyframe Image Prompt` and `15-Second Video Prompt`. Do not add episode metadata, explanations, production notes, or separate constraint sections.
 - Write the keyframe image prompt as one paragraph under 120 words. Include only subject, clothing, action, visual contrast, lighting, and camera style.
-- The keyframe image prompt must represent Frame 0 exactly and act as the seed image for Image-to-Video generation. Its characters, clothing, actions, positions, environment, lighting, and camera framing must perfectly match the `0s-3s (Setting & Setup)` beat; never depict a later action, reveal, or climax.
-- Structure every 10-second video prompt as `Cinematic Multi-Scene Drama` with `Global Style`, `Timeline & Scene Breakdown`, and four bullets: `0s-3s (Scene 1 - The Confrontation/Opening Beat)`, `3s-6s (Scene 2 - The Escalation/Hard Cut)`, `6s-10s (Scene 3 - The Climax/The Twist Reveal)`, and `Sound Specification`.
-- Use a distinct camera angle for each scene and explicit hard cuts at 3s and 6s. Favor high-tension facial expressions, shallow depth of field, intense color grading, and a locked final stare.
-- Include three heavy dialogue lines copied exactly from the finalized story script, delivered at approximately 1.5s, 4.5s, and 8s. Never invent dialogue only for the video prompt.
-- Keep each scene centered on one clear narrative beat despite the faster edit. Avoid excessive movement within a shot that could cause character morphing.
+- The keyframe image prompt must represent the exact frozen state at 0 seconds, immediately before the first trailer action or dialogue begins. It must act as the seed image for the opening scene, with every character, prop, position, environment, lighting condition, and camera angle matching the starting state of the `0s-3s` beat. Never depict an action that occurs after playback begins, even if that action belongs to the first scene; never depict a later reveal or climax.
+- Write the `0s-3s` beat so it explicitly animates forward from the keyframe's frozen starting state. Clearly distinguish what is already visible at 0 seconds from what begins moving or changing after 0 seconds.
+- Write every 15-second video prompt as one compact paragraph using this sequence: a short global trailer-style instruction; `0-3s`, `3-6s`, `6-9s`, `9-12s`, and `12-15s` scene beats; one closing `Sound:` sentence; and one closing `Music:` sentence. Do not use subheadings, bullet breakdowns, production commentary, or long technical specifications inside the prompt.
+- Use five distinct, independent scenes connected by explicit cinematic hard cuts. The beats must condense the story as opening mystery, inciting incident, escalation, emotional consequence, and twist/final sting. End before the story's resolution so the trailer creates curiosity.
+- Give each scene one clear visual, one action, one dominant emotion, and one short meaningful dialogue line. Draw dialogue from different parts of the finalized story, distribute it across characters, and keep total spoken dialogue concise enough to remain intelligible within 15 seconds.
+- Make speed come from scene transitions rather than excessive action within a shot. Use concrete visible details and mention camera behavior only when it materially improves the scene.
+- Summarize impactful diegetic sound and transition effects in the `Sound:` sentence. Use the `Music:` sentence for an epic cinematic arc that builds tension, ducks beneath dialogue, and ends with silence or one final impact.
 - Use `episodes/ep-001-example/prompt.md` as the mandatory format for every new episode and replace all template fields with episode-specific details.
-- `video-intro.md` must align to the Super Hook used in Part 1 and include the keyframe image prompts.
-- Keep `outputs/` ready for concrete media deliverables using slug-based filenames for cover, keyframe, and 10-second video variants.
+- `video-intro.md` must preserve traceability between the Super Hook, all trailer dialogue, the keyframe, and the five timed scenes.
+- Keep `outputs/` ready for concrete media deliverables using slug-based filenames for cover, keyframe, and 15-second trailer variants.
 
 ## Project Stack / Tools
 - Domain: content automation and editorial production workflow.
