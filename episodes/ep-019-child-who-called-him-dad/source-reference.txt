@@ -1,0 +1,28 @@
+EPISODE 019 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep19_1547518316978963.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-019-child-who-called-him-dad\ep19_1547518316978963.json
+
+SHA-256:
+60E868DB508EC6860396BB9C556B30C84E436498B131B0E8F62D58B81DB74E2B
+
+Facebook source:
+https://www.facebook.com/reel/1547518316978963
+
+Website source:
+https://nextpart.fun/2026/04/29/part-2-its-okay-youre-safe/
+
+FACEBOOK STORYLINE
+A young man holds and comforts a distressed baby rescued from a locked car in extreme heat. The child's mother arrives furious about the damaged car, insists she was gone only one minute, and is confronted with the fact that her child could not breathe. The baby clings to the rescuer, the man recognizes something familiar, and the confrontation freezes when the baby calls him Dad and he asks the mother why.
+
+WEBSITE STORYLINE
+The website's main English storyline repeats the same locked-car aftermath: the baby clings to the young man, the mother angrily confronts him, he says her child could not breathe, and the baby calls him Dad before the mother's explanation. It adds no event after the Facebook cliffhanger.
+
+FILTERING JUDGMENT
+The website storyline is a duplicate version and was not counted as a separate continuation. The complete JSON remains unchanged. Unrelated website material and social comments were ignored rather than deleted and were not recorded as story facts.
+
+GENERATED-EXPANSION BOUNDARY
+All names, exact rescue mechanics, medical follow-up, forged documents, family motive, investigation, legal outcomes, parenting safeguards, restitution, public-safety work, co-parenting development, and final resolution are generated expansion built around the accepted Facebook narrative spine.

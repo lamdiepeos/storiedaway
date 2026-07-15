@@ -1,0 +1,31 @@
+EPISODE 031 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep31_1653675569080078.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-031-scholarship-file-they-deleted\ep31_1653675569080078.json
+
+SHA-256:
+BD6AE526F2154D21E0238CC654D99F179E7A4D0EDD546C7D64A13A80A78F426D
+
+Facebook source:
+https://www.facebook.com/reel/1653675569080078
+
+Website source:
+https://fullstory.fun/2026/04/27/%f0%9f%8e%ac-part-2-the-bully-flinched/
+
+FACEBOOK STORYLINE
+In a school hallway, a bully deliberately pours dark liquid over a quiet boy's hood, face, and laptop while students laugh, gasp, and record. The bully mocks him, but the boy calmly stands, asks whether he is done, steps closer, and says it is now his turn. The bully challenges him as the boy slowly raises one hand.
+
+WEBSITE STORYLINE
+The bully flinches, but the boy reaches past him and presses one key on the soaked laptop. Phones throughout the hallway buzz and play video of the bully directing someone to delete a scholarship file and make the boy appear to have failed, then saying no one will believe him. The boy says his laptop records everything. A principal enters and says they need to talk while the bully panics.
+
+FILTERING JUDGMENT
+The website storyline was accepted as a direct continuation after deduplicating the raised-hand transition. The complete JSON remains unchanged. Promotional text, emojis, camera and sound phrasing, Facebook UI/CSS, engagement numbers, warning, media URL, and social comments were ignored rather than deleted and were not treated as story facts.
+
+EVALUATION NOTES
+The combined candidate has high hook potential through visible bullying, a damaged laptop, controlled nonviolent resistance, synchronized evidence exposure, scholarship sabotage, and an authority figure's arrival. The source does not independently verify the recording, deletion, access method, scholarship result, school response, or final outcome. Expansion must protect student privacy, avoid treating a viral clip as a verdict, corroborate tampering through systems evidence, distinguish coercion and responsibility, and award any scholarship on merit rather than sympathy.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, Ashford Academy, Halden Scholarship, family and board relationships, student technology access, automatic laptop recording details, student bulletin mechanism, independent investigation, backups and audit records, coerced second student, disciplinary and juvenile outcomes, blinded scholarship review, ProofPath reporting system, institutional reform, and final graduation are generated expansion built around the accepted combined storyline.

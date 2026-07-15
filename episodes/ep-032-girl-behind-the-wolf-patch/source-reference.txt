@@ -1,0 +1,32 @@
+EPISODE 032 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep32_2026992624895968.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-032-girl-behind-the-wolf-patch\ep32_2026992624895968.json
+
+SHA-256:
+F8AFD05EA1DF20002B4C14B15C02FD9E79ED85C582E660E987620C59A7754B27
+
+Facebook source:
+https://www.facebook.com/reel/2026992624895968
+
+Website source:
+https://fullstory.fun/2026/04/28/%f0%9f%8e%ac-part-2-the-young-man-at-the-counter-smiled-like-he-still-thought-he-could-walk-out/
+
+FACEBOOK STORYLINE
+A dirty, frightened girl in an oversized yellow shirt approaches a biker in a diner, says the man at the counter is not her father, recognizes his wolf patch from her mother's instructions, and names her mother Rose.
+
+WEBSITE STORYLINE
+The young man claims Rose gave him the child; the girl says he took her while Rose screamed. A photograph connects Rose to the biker, who says Rose is his sister, and the girl reveals Rose is still in the man's car.
+
+FILTERING JUDGMENT
+Accepted the website as a direct continuation after deduplicating the counter confrontation. Ignored promotional, camera, sound, UI/CSS, engagement, warning, media, and comment residue without altering the JSON.
+
+EVALUATION NOTES
+High hook potential comes from the documented visual reversal and relationship mystery. The source does not supply verified identity, motive, evidence, legal authority, or complete resolution. Expansion therefore applies child safeguarding, domestic-abuse response, lawful intervention, and anti-vigilantism gates and separates source clues from verified findings.
+
+GENERATED-EXPANSION BOUNDARY
+All names, diner response, police and paramedic intervention, evidence, coercive-control history, prosecution, custody, recovery, Gray Wolves safeguards, transport pilot, and final advocacy work are generated expansion.
+

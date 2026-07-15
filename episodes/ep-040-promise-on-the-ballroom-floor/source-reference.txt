@@ -1,0 +1,29 @@
+EPISODE 040 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep40_1234820675130061.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-040-promise-on-the-ballroom-floor\ep40_1234820675130061.json
+
+SHA-256:
+E2E2D00021A13434B38BDD335A74A989D743EEA43C5A9ABF5F2799F456A17A23
+
+Facebook source:
+https://www.facebook.com/reel/1234820675130061
+
+Website source:
+https://fullstory.fun/2026/04/25/%f0%9f%8e%ac-part-2-why-he-asked-her-to-dance/
+
+ACCEPTED COMBINED STORYLINE
+A boy invites a wheelchair-using girl with prosthetic legs to dance; she stands, takes steps, laughs, and asks how he knew. The website continues with their rehabilitation-garden promise and renewed friendship.
+
+FILTERING JUDGMENT
+Combined the distinct hospital-friend and promise continuation after deduplicating the ballroom question; ignored promotional and technical capture noise. The complete JSON remains unchanged.
+
+EVALUATION NOTES
+The source has strong visual and emotional hook potential but does not independently establish identity, motive, liability, medical meaning, or final outcome. Expansion applies disability dignity, child consent, prosthetic safety, privacy, and accessible arts design.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, practiced mobility context, therapist safeguards, socket care, privacy response, adaptive studio, insurance appeal, Open Floor governance, access audits, and final performance are generated.
+

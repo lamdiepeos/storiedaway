@@ -8,11 +8,11 @@
 
 ## Final Super Hook Reference
 
-Paste the exact final Super Hook lines from `example-story-full-story.txt` here for traceability.
+Paste the exact final Super Hook lines from `example-story-part-1.txt` here for traceability.
 
 ## 15-Second Trailer Script
 
-List the exact finalized-story dialogue used by the trailer in scene order. Never add trailer-only dialogue.
+List the exact finalized Part 1 dialogue used by the trailer in scene order. Never use later-part or trailer-only dialogue.
 
 ## Timing Notes
 - 0s-3s:
@@ -23,20 +23,23 @@ List the exact finalized-story dialogue used by the trailer in scene order. Neve
 
 ## Keyframe Prompt
 
-Copy the Frame 0 keyframe prompt from `prompt.md`. It must show the exact frozen state at 0 seconds before the first action or dialogue begins, and the trailer's 0s-3s scene must animate forward from it.
+Copy the keyframe image for starting the video from `prompt.md`. It must show the exact frozen state at 0 seconds before the first action or dialogue begins, and the trailer's 0s-3s scene must begin with the first action directly from that state without using the removed `animate forward` phrase.
 
 ## Additional Image Prompt Variants
 
-- Cover photo prompt:
+- 1920x1080 landscape cover: an independent hook image depicting the finalized full story's strongest truthful dramatic moment, not an expansion of the opening keyframe.
 - Trailer 15s frame prompt:
 - Trailer 15s add-noise frame prompt:
 
+Do not generate image files unless the user explicitly requests generation. Reserve `outputs/` for user-supplied rendered trailer variants and secondary media.
+
 ## QA Checklist
 - Trailer opening reflects the final Super Hook's story premise.
-- Every dialogue line appears exactly in the finalized story.
-- The five scenes represent opening mystery, inciting incident, escalation, emotional consequence, and twist/final sting.
+- Every dialogue line appears exactly in finalized Part 1.
+- The five scenes represent a compelling 15-second portion of Part 1 as opening mystery, inciting incident, escalation, emotional consequence, and twist/final sting.
 - Visual prompt shows the exact 0-second state, not an image from the middle or end of the 0s-3s beat.
 - The first scene begins from the keyframe's exact character positions, poses, props, environment, lighting, and camera angle.
 - Character, tone, and setting align with the story files.
+- The website cover is an independent 1920x1080, 16:9 hook image with strong dramatic impact, full-story fidelity, consistent character appearance, and no invented or misleading event.
 - Sound effects and epic cinematic music build tension without obscuring dialogue.
 - The trailer ends before revealing the story's resolution.

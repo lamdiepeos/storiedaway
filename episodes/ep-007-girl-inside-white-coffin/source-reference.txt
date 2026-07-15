@@ -1,0 +1,18 @@
+SOURCE REFERENCE
+
+Episode ID: ep-007-girl-inside-white-coffin
+Story Slug: girl-inside-white-coffin
+
+Local source 01: E:\EOS\EOS-StoryTraffic\27499117613025858.json
+Link web 01: https://www.facebook.com/reel/27499117613025858
+Link web 02 (captured continuation link, not consulted): https://fullstory.fun/2026/05/27/%f0%9f%8e%ac-part-2-the-girl-inside-the-white-coffin/
+
+Source platform: Facebook
+Source author: Story Makers
+Scraped at: 2026-07-13T10:34:20.143Z
+Normalized likes/comments/shares: unavailable
+Captured comments: 3
+Captured media records: 0
+Scraper warning: post time link was not found
+
+Only the local JSON payload was consulted. Display-count text embedded in the caption was not treated as normalized engagement data.

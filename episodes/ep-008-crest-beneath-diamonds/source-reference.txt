@@ -1,0 +1,39 @@
+EPISODE 008 SOURCE REFERENCE
+
+Primary local capture:
+E:\EOS\EOS-StoryTraffic\1511885760448118.json
+
+Original Facebook reel:
+https://www.facebook.com/reel/1511885760448118
+
+Captured author:
+Story Makers
+
+Captured source title:
+The Blue Dress & The Diamond Necklace
+
+Captured continuation link recorded for traceability but not consulted during rewriting:
+https://fullstory.fun/2026/04/27/%f0%9f%8e%ac-part-2-the-blonde-woman-stepped-forward-too-quickly/
+
+Source material actually used:
+- JSON `story.part_1` and matching Facebook caption.
+- JSON `story.part_2`, which contains the captured continuation text.
+- Captured comments only as audience/context signals; comments were not treated as plot facts.
+
+Documented source facts:
+- A blonde woman in a beaded beige gown uses gold scissors to cut the strap of a young girl's vivid blue dress in a ballroom.
+- She says, "Girls like you don't belong in dresses like this."
+- Guests watch without helping.
+- An older gentleman in a black tuxedo enters carrying a silver tray and places a diamond necklace around the girl.
+- A hidden engraved crest and clasp are revealed on the necklace.
+- The clasp contains a portrait of a young woman holding a baby wrapped in blue satin.
+- The girl identifies the woman in the portrait as her mother.
+- The older man tells the blonde woman that she claimed the baby died.
+- The blonde woman says the girl was supposed to disappear.
+- The older man announces that the girl is his granddaughter.
+
+Capture warning:
+- `post_time_missing`: the post time link was not found.
+
+Traceability boundary:
+All investigation details, character histories, names, institutional explanations, legal outcomes, recovery, and final resolution beyond the captured material are generated expansion. They preserve the documented narrative spine but are not claimed as source facts.

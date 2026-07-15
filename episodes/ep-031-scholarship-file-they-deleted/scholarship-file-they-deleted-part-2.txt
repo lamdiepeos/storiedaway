@@ -1,0 +1,45 @@
+THE SCORE BENEATH THE DELETION LOG
+
+The academy closed the scholarship portal for forty-eight hours and notified every applicant that a record-integrity review was underway. No winner would be named until an outside examiner confirmed the files. Blake's father, Grant Mercer, objected to the delay and offered to supervise the inquiry himself.
+
+The board refused.
+
+Grant's committee authority was temporarily reassigned, not because his son had been declared guilty, but because the conflict was obvious. The Halden Foundation appointed Mara Singh, a digital forensics consultant with no academy ties, to work beside its own scholarship administrator. Noah and Mei received counsel through a student advocacy organization. Blake received notice of the allegations and his own representative.
+
+Mara began with the systems, not the hallway video.
+
+The scholarship database kept versioned backups and an audit trail on a separate server. Noah's application had been complete three days before the deadline. Two teachers had scored it highly, and a third had not yet submitted a rating. At 8:43 on the night recorded by Noah's laptop, an administrator account changed his status to incomplete, replaced one teacher's score with zero, and deleted two attachments.
+
+The login belonged to counselor Ruth Bell. Building records showed Ruth had left hours earlier. Her password had been entered correctly from a terminal inside the scholarship office, but the required security token came from a spare device signed out to the student technology desk.
+
+Blake had signed for that device.
+
+He claimed another aide borrowed it. Door-access logs placed his badge at the office. Corridor video showed him entering with Noah's backpack, which he had taken from an unlocked robotics room. A recovered message to a classmate asked how quickly deleted portal records disappeared from backups. The classmate had answered that they did not.
+
+The short hallway clip was consistent with those records, but it was not the foundation beneath them. Mara authenticated the full laptop recording, documented its timestamps, and preserved the original before anyone edited another excerpt. It captured Blake opening Noah's computer and instructing a second student, Owen Pike, to alter the file.
+
+Owen came forward with his parents and counsel. He admitted entering Ruth's password after seeing it on a note Blake had photographed months earlier. Blake had promised him a place on the foundation's summer trip and threatened to reveal private messages if he refused. Owen's coercion mattered, but it did not erase his actions. The school created a separate discipline and support plan for him and referred both students to the appropriate juvenile review process.
+
+Grant had not ordered the deletion. His emails contained no advance knowledge of it. Investigators did find that he had repeatedly dismissed complaints about his son's conduct and discouraged staff from documenting a prior locker-room incident. The board removed him from student-safeguarding and scholarship oversight for those governance failures. It did not label him part of the file scheme without evidence.
+
+Noah faced his own review. The automatic recording began only when someone opened his device, which reduced but did not eliminate privacy concerns. Releasing edited clips through the student bulletin had exposed other students to unverified accusations and bypassed the reporting channels available to him. He explained that he had reported two stolen-bag incidents and received no written response.
+
+The panel found that history in the academy's email archive. An assistant principal had forwarded both reports to Blake's year adviser, but no case had been opened.
+
+Noah accepted a proportionate network-use consequence: loss of student bulletin publishing privileges for a term and completion of a digital ethics project. The academy did not punish him for possessing evidence or reporting misconduct. It also acknowledged in writing that its failure to respond had contributed to his belief that only a public release would be safe.
+
+Blake was suspended pending a formal hearing. The hallway assault was substantiated by multiple angles, the nurse's report, and witness accounts. The file tampering was substantiated separately by the backup, audit logs, badge record, security-token custody, messages, full recording, and Owen's account.
+
+The scholarship reviewers restored Noah's application to its state before the tampering. Then they did something Noah initially hated: they removed themselves from knowledge of the incident. A new panel received anonymized applications and original teacher scores. Noah wanted someone to say the scholarship was owed to him after what happened.
+
+Mei disagreed gently.
+
+"You are owed a fair reading," she said. "That is stronger than pity."
+
+Two weeks later, the Halden Foundation announced three finalists. Noah was one of them. His engineering design for low-cost refrigeration monitoring had earned the place. The restored score mattered. The viral video did not appear in the panel's materials.
+
+Blake's disciplinary hearing ended with expulsion for assault, repeated harassment, theft of Noah's bag, credential misuse, and scholarship-record tampering. The juvenile case resulted in supervised probation, restitution for the laptop and medical costs, community service, and a no-contact order. Owen received a different outcome reflecting his lesser role, coercion, cooperation, and need for counseling.
+
+Noah watched none of the hearing footage. There was no satisfying scene of Blake standing alone while everyone chose a side. There were only findings, reasons, and consequences written in plain language.
+
+That was enough to begin repairing what the hallway had turned into entertainment.

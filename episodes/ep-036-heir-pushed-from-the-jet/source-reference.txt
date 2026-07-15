@@ -1,0 +1,29 @@
+EPISODE 036 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep36_1321693879809503.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-036-heir-pushed-from-the-jet\ep36_1321693879809503.json
+
+SHA-256:
+C2BD8BE49EFBC7A2B1819E36A84F6CC4CFB09A063FE2331874E44845FC98A2EB
+
+Facebook source:
+https://www.facebook.com/reel/1321693879809503
+
+Website source:
+https://fullstory.fun/2026/04/26/%f0%9f%8e%ac-part-2-the-call-that-destroyed-him/
+
+ACCEPTED COMBINED STORYLINE
+A pilot pushes a young Black woman from private-jet stairs, humiliates her, and learns from her arriving mother that the aircraft belongs to their family. The website continues with security, operations leadership, the daughter's company role, and the recovered ID badge.
+
+FILTERING JUDGMENT
+Combined the distinct website continuation after deduplicating the phone-call handoff; ignored promotional and technical capture noise. The complete JSON remains unchanged.
+
+EVALUATION NOTES
+The source has strong visual and emotional hook potential but does not independently establish identity, motive, liability, medical meaning, or final outcome. Expansion applies workplace assault, discrimination, independent investigation, aviation safety, and conflict-of-interest safeguards.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, medical findings, evidence review, prior complaints, employment and regulator outcomes, board audit, worker council, infrastructure changes, and final reforms are generated.
+

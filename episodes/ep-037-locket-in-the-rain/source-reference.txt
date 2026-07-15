@@ -1,0 +1,29 @@
+EPISODE 037 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep37_2992233731116584.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-037-locket-in-the-rain\ep37_2992233731116584.json
+
+SHA-256:
+E2653AA018BF47A150FA3DB85A9C0FF42CAC2D411A5A524FDBB4F93C25162067
+
+Facebook source:
+https://www.facebook.com/reel/2992233731116584
+
+Website source:
+https://fullstory.fun/2026/04/26/%f0%9f%8e%ac-part-2-the-daughter-he-thought-was-dead/
+
+ACCEPTED COMBINED STORYLINE
+A soaked woman tries to sell a gold locket; the jeweler recognizes the photograph and engraving linked to his missing daughter. The website continues with her abduction memory, false belief that her father died, sick son, and emotional reunion.
+
+FILTERING JUDGMENT
+Combined the distinct identity and grandson continuation after deduplicating the door-and-locket reaction; ignored promotional and technical capture noise. The complete JSON remains unchanged.
+
+EVALUATION NOTES
+The source has strong visual and emotional hook potential but does not independently establish identity, motive, liability, medical meaning, or final outcome. Expansion applies missing-person verification, trauma-informed reunification, child medical care, identity repair, and poverty dignity.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, DNA and record authentication, clinic care, abductor archive, foster-system review, compensation, legal identity repair, cooperative shop, and final relationship are generated.
+

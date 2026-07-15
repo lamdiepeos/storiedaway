@@ -1,0 +1,32 @@
+EPISODE 033 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep33_1502230678236312.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-033-song-his-daughter-kept\ep33_1502230678236312.json
+
+SHA-256:
+7625F42481491BE6D31C28049902B02B282A6A539A922AE6DA3F5C66C5FC5C24
+
+Facebook source:
+https://www.facebook.com/reel/1502230678236312
+
+Website source:
+https://fullstory.fun/2026/04/28/%f0%9f%8e%ac-part-2-the-daughter-he-buried-in-silence/
+
+FACEBOOK STORYLINE
+A muddy barefoot boy carrying a handmade flute interrupts a wealthy garden dinner, says his mother is sick, and is told to earn help. His melody and the flute's carved symbol unsettle the older host; a hospital photograph reveals a woman he recognizes.
+
+WEBSITE STORYLINE
+The boy finishes by calling the older man his mother's father, explains that she is dying and sent him with the song, and says she kept the flute. The older man kneels and asks the boy to take him to his daughter.
+
+FILTERING JUDGMENT
+Accepted the website as a direct continuation after deduplicating the unfinished family-title sentence. Ignored promotional, camera, sound, UI/CSS, engagement, warning, media, and comment residue without altering the JSON.
+
+EVALUATION NOTES
+High hook potential comes from the documented visual reversal and relationship mystery. The source does not supply verified identity, motive, evidence, legal authority, or complete resolution. Expansion therefore applies child safeguarding, medical realism, consent, and non-transactional family repair gates and separates source clues from verified findings.
+
+GENERATED-EXPANSION BOUNDARY
+All names, hospital safeguards, diagnosis and treatment, aunt placement, intercepted letters, independent trust, DNA and records, reconciliation boundaries, workshop governance, and final concert are generated expansion.
+

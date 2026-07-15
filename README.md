@@ -7,7 +7,7 @@ This workspace is organized around an episode-centric production flow. Global in
 1. Collect competitor material into `sources/`.
 2. Evaluate and rank candidates in `evaluation/`.
 3. Create or duplicate an `episodes/ep-XXX/` folder for each selected story.
-4. Execute rewriting, hook optimization, ending expansion, segmented story packaging, intro generation, metadata prep, and output packaging inside that episode folder.
+4. Execute rewriting, hook optimization, ending expansion, segmented story packaging, prompt writing, intro preparation, metadata prep, and output packaging inside that episode folder. Image prompts remain required, but actual image generation is not part of the default workflow.
 
 ## Directory Map
 
@@ -25,6 +25,7 @@ Each `episodes/ep-XXX/` folder should contain the full working set for one story
 - `source-reference.txt`
 - `[story-slug]-full-story.txt`
 - `[story-slug]-part-1.txt` through `[story-slug]-part-N.txt`
+- `prompt.md`
 - `video-intro.md`
 - `publish-metadata.md`
 - `generation-process.md`

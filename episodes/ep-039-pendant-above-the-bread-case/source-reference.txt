@@ -1,0 +1,29 @@
+EPISODE 039 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep39_1469225331418136.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-039-pendant-above-the-bread-case\ep39_1469225331418136.json
+
+SHA-256:
+2A8DC89F246BDD9E8EBCE18908717894DDF2F42378CF81ED16CD83F48266B06F
+
+Facebook source:
+https://www.facebook.com/reel/1469225331418136
+
+Website source:
+https://fullstory.fun/2026/04/25/%f0%9f%8e%ac-part-2%d6%89-the-name-on-the-pendant/
+
+ACCEPTED COMBINED STORYLINE
+A hungry boy carrying his little sister asks for discounted bread, a suited man orders everything packed, and recognizes their mother's pendant. The website continues with their missing mother, her name, his claimed grandfather identity, and an invitation home.
+
+FILTERING JUDGMENT
+Combined the distinct mother-and-grandfather continuation after deduplicating the pendant question; ignored promotional and technical capture noise. The complete JSON remains unchanged.
+
+EVALUATION NOTES
+The source has strong visual and emotional hook potential but does not independently establish identity, motive, liability, medical meaning, or final outcome. Expansion applies child safeguarding, missing-parent response, kinship verification, poverty dignity, and consent-based family repair.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, emergency response, hospital identification, wage recovery, DNA, placement, family boundaries, bakery pantry network, worker audit, and final reconciliation are generated.
+

@@ -1,0 +1,29 @@
+EPISODE 038 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep38_25977202328626549.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-038-promise-before-the-footrest-moved\ep38_25977202328626549.json
+
+SHA-256:
+CEB3C778D4922FCCFE6441EDE259CFE9E2D9532337C576F12F5E73BD712CC385
+
+Facebook source:
+https://www.facebook.com/reel/25977202328626549
+
+Website source:
+https://fullstory.fun/2026/04/26/%f0%9f%8e%ac-part-2-the-footrest/
+
+ACCEPTED COMBINED STORYLINE
+A seven-year-old offers to fix an elderly judge's legs if her father comes home, explains he stole from hunger, and sees the judge's foot move. The website continues with bread and medicine, a second movement, and temporary release review.
+
+FILTERING JUDGMENT
+Combined the distinct hearing continuation after deduplicating the first footrest movement; ignored promotional and technical capture noise. The complete JSON remains unchanged.
+
+EVALUATION NOTES
+The source has strong visual and emotional hook potential but does not independently establish identity, motive, liability, medical meaning, or final outcome. Expansion applies judicial ethics, proportionality, child safeguarding, medical realism, and disability dignity.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, file errors, reassignment, medical explanation, lawful release factors, plea and diversion, benefit correction, ethics review, court access, and final reforms are generated.
+

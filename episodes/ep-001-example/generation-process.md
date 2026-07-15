@@ -42,4 +42,6 @@ Record any notable editorial or workflow decisions. Keep `source facts`, `model 
 - Additional part files status:
 - `video-intro.md` status:
 - `publish-metadata.md` status:
-- `outputs/` status:
+- `example-story-keyframe.png` episode-root status:
+- `example-story-cover-photo.jpg` episode-root status:
+- `outputs/` trailer/secondary-media status:

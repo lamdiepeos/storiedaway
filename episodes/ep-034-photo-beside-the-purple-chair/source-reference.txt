@@ -1,0 +1,32 @@
+EPISODE 034 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep34_1344486214403007.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-034-photo-beside-the-purple-chair\ep34_1344486214403007.json
+
+SHA-256:
+440D317599381018E384397E120932D407C2471DAD7A6B232959686CFB5F068A
+
+Facebook source:
+https://www.facebook.com/reel/1344486214403007
+
+Website source:
+https://fullstory.fun/2026/04/27/%f0%9f%8e%ac-part-2-the-photo-he-buried/
+
+FACEBOOK STORYLINE
+A girl in a bright purple wheelchair approaches an intimidating older biker in a diner, insists on sitting with him, and produces a photograph of his younger self holding a baby wrapped in stars and moons. She begins a message about finding the man with his scar.
+
+WEBSITE STORYLINE
+The girl asks why he never returned, her grandparents identify her as Anna's daughter, and she says Anna died. She tells him Anna said he would keep her safe, then identifies the approaching man who told him she was not his and says someone hurt her.
+
+FILTERING JUDGMENT
+Accepted the website as a direct continuation after deduplicating the unfinished scar message and photograph reaction. Ignored promotional, camera, sound, UI/CSS, engagement, warning, media, and comment residue without altering the JSON.
+
+EVALUATION NOTES
+High hook potential comes from the documented visual reversal and relationship mystery. The source does not supply verified identity, motive, evidence, legal authority, or complete resolution. Expansion therefore applies disability dignity, child agency, fiduciary evidence, and nonviolent lawful response gates and separates source clues from verified findings.
+
+GENERATED-EXPANSION BOUNDARY
+All names, parentage testing, protective-order context, disability trust, unsafe van, independent counsel, criminal and guardianship outcomes, accessible-home planning, youth council, and final chosen-family arrangement are generated expansion.
+

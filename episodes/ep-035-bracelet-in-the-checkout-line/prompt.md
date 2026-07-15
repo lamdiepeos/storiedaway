@@ -1,0 +1,8 @@
+## Keyframe Image Prompt
+
+Photorealistic vertical cinematic frame at a brightly lit grocery checkout. Young adult Nora in a faded denim jacket cradles a crying newborn wrapped in light blue while her phone hovers frozen just above the card reader before the first payment attempt. Diapers, wipes, milk, and cheap bread rest on the belt. Adult Evelyn waits farther back in a soft blue sweater, not yet moving, while impatient adult shoppers stand behind her. Harsh fluorescent light contrasts with the tender blanket, eye-level medium-wide camera, natural skin and fabric detail, tense pre-decline stillness.
+
+## 15-Second Video Prompt
+
+Cinematic trailer, 9:16. Five scenes with explicit hard cuts. 0-3s: Nora taps the poised phone from the exact frozen state, the reader flashes declined, and a shopper snaps, "Step aside if you can't pay." 3-6s: hard cut to the newborn crying harder as Nora tries again and an older man says, "Pathetic." 6-9s: hard cut to Nora looking at diapers and bread while a woman folds her arms and asks, "Why have kids if you're broke?" 9-12s: hard cut to Nora clutching the baby under the staring line and whispering, "I'm sorry. I'm so sorry." 12-15s: hard cut to Evelyn stepping beside her, placing cash on the counter, and saying, "I'll pay for it." End before Evelyn notices the bracelet. Sound: store hum, two decline beeps, infant cries, groceries shifting, cash touching the counter, hard-cut impacts, and a final softened hush. Music: sparse piano beneath cold fluorescent tension, building into warm restrained strings, ducking under every line, and ending on one gentle impact.
+

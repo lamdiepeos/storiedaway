@@ -1,0 +1,18 @@
+SOURCE REFERENCE
+
+Episode ID: ep-005-song-his-mother-hid
+Story Slug: song-his-mother-hid
+
+Local source 01: E:\EOS\EOS-StoryTraffic\1001998055677307.json
+Link web 01: https://www.facebook.com/reel/1001998055677307
+Link web 02 (captured continuation link, not consulted): https://fullstory.fun/2026/05/28/%f0%9f%8e%ac-part-2-the-song-his-mother-hid/
+
+Source platform: Facebook
+Source author: Story Makers
+Scraped at: 2026-07-13T10:34:59.437Z
+Normalized likes/comments/shares: unavailable
+Captured comments: 5
+Captured media records: 1
+Scraper warning: post time link was not found
+
+Only the local JSON payload was consulted. Display-count text embedded in the caption was not treated as normalized engagement data.

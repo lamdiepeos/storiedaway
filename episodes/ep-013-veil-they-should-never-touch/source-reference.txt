@@ -1,0 +1,46 @@
+EPISODE 013 SOURCE REFERENCE AND CONTENT FILTER
+
+Primary local capture:
+E:\EOS\EOS-StoryTraffic\ep13_962729426649747.json
+
+Source SHA-256:
+A60AB633D0F75639152A59C72F170AF93FCE596A01C00C4DC71EA685BCF6D937
+
+Original Facebook reel:
+https://www.facebook.com/reel/962729426649747
+
+Captured author:
+Artshin
+
+Captured continuation/article URL:
+https://nextpart.fun/2026/04/17/part-2-a-girl-like-you-doesnt-deserve-to-look-beautiful-here-2/
+
+Accepted narrative source:
+- `sources[0].post.caption`, containing the complete captured ballroom teaser.
+- Only its observable story events and spoken dialogue were treated as plot facts.
+
+Documented source facts:
+- A luxurious wedding ballroom is lit by chandeliers, with champagne towers, white roses, guests, bride, groom, and a powerful gray-haired father.
+- An elegant older rich woman slaps a bridesmaid and violently tears the veil she is wearing.
+- The rich woman says the bridesmaid does not deserve to look beautiful there.
+- The bridesmaid becomes controlled and calm, takes out her phone, dials, and says, `Yes... do it now.`
+- The groom, three men near the back, and the gray-haired father react with fear.
+- The father asks what she did.
+- The bridesmaid says they should have asked before touching her mother's veil.
+- The father recognizes the veil or its implication.
+- The rich woman asks who the bridesmaid is.
+- The bridesmaid answers that they are about to find out.
+
+Excluded noisy or non-story content:
+- `sources[0].post.article.title`: promotional duplicate title, not a new story fact.
+- `sources[0].post.article.image`: article thumbnail URL, not narrative evidence.
+- `sources[0].post.article.content`: excluded as a near-verbatim repetition of the Facebook teaser, not a genuine continuation. Its camera/staging phrases, `CUT TO BLACK`, bass-hit direction, emoji, and `Watch Part 2` CTA are promotional production material.
+- Facebook UI residue, engagement strings, CSS text, and `See less` text embedded in the caption.
+- Social comments and their profile links; treated only as audience reaction, not story facts.
+- Video and webpage URLs beyond source traceability; no visual content was inferred from the URLs.
+
+Filtering judgment:
+The linked article adds no events after the ballroom doors begin to open. Because it repeats the same scene and ends with another continuation CTA, it was not used as Part 2 and contributed no new plot foundation.
+
+Generated-expansion boundary:
+All character names, ages, family relationships, company and merger structure, Miriam's authorship and shares, evidence archive, court orders, labor-rights motive, legal proceedings, restitution, annulment, textile fund, visible veil repair, and long-term resolution are generated expansion designed to complete the captured narrative spine.

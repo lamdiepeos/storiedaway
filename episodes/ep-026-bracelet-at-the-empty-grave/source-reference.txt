@@ -1,0 +1,31 @@
+EPISODE 026 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep26_4520012124985857.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-026-bracelet-at-the-empty-grave\ep26_4520012124985857.json
+
+SHA-256:
+D6DD3DD96F44419BDDEBA6A03AB0C5112D771517CF51F65026A8239786E4CA35
+
+Facebook source:
+https://www.facebook.com/reel/4520012124985857
+
+Website source:
+https://nextpart.fun/2026/04/22/part-2-no-theyre-cold/
+
+FACEBOOK STORYLINE
+In a rainy cemetery, two grieving parents kneel beside a weathered headstone showing two young boys. A barefoot seven-year-old girl in a torn smock screams that the boys are cold and not gone. She says both boys stay with her at an orphanage. The father grabs her wrist and sees the faded blue friendship bracelet their missing son always wore, causing the mother to scream.
+
+WEBSITE STORYLINE
+The website article repeats the same cemetery, grieving parents, barefoot girl, dialogue, orphanage location, wrist grab, and blue bracelet reveal. Despite its Part 2 label, the captured main English storyline ends at the same moment and adds no distinct narrative event.
+
+FILTERING JUDGMENT
+The website storyline was recorded but excluded from double-counting as a near-verbatim duplicate. The complete JSON remains unchanged. Camera phrasing, the promotional title and image, call to action, Facebook UI/CSS and engagement residue, video data, and social comments were ignored rather than deleted and were not treated as story facts.
+
+EVALUATION NOTES
+The candidate has high hook potential through grief reversal, a child's urgent warning, two missing siblings, a named institution, and a unique physical object linked to one boy. The source supplies no identification, disappearance mechanism, institutional conditions, or resolution. Expansion must treat the girl's statement and bracelet as investigative leads rather than conclusive proof and must protect all children through trauma-aware identification, placement, and reunification.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, empty-memorial explanation, flood evacuation history, Ashgrove House, cold dormitory and locked exit, identity testing, false intake records, funding scheme, laboratory error, investigation, legal and regulatory outcomes, reunification process, Lila's permanent placement, system reforms, memorial correction, and final resolution are generated expansion built around the accepted source storyline.

@@ -1,0 +1,38 @@
+EPISODE 011 SOURCE REFERENCE
+
+Primary local capture:
+E:\EOS\EOS-StoryTraffic\ep11_917768484464002.json
+
+Original Facebook reel:
+https://www.facebook.com/reel/917768484464002
+
+Captured author:
+Story Makers
+
+Captured source title:
+The Photograph and The Forgotten Mother
+
+Captured continuation link recorded for traceability but not consulted:
+https://fullstory.fun/2026/04/09/part-2-for-the-first-time-since-stepping-out-of-the-car-the-woman-looked-terrified/
+
+Source material actually used:
+- Local JSON capture.
+- Embedded `story.part_1` and `story.part_2` fields.
+- Captured comments only as audience/context signals; comments were not treated as plot facts.
+
+Documented source facts:
+- A boy throws dirty water over a luxury sedan and restaurant entrance, blaming a wealthy woman.
+- He says she left his mother begging in the rain and produces an old folded photograph.
+- The photograph shows the younger wealthy woman on a hospital bench holding him as a baby.
+- The woman is his biological mother.
+- The back of the photograph says, `Don't let him know me.`
+- The mother who raised him found the woman outside Saint Catherine's Hospital in the rain.
+- Two suited men arrived in a black car and threatened that the child would become a problem.
+- The biological mother gave the baby away to protect him and returned the next morning, but could not find them.
+- An older wealthy man inside the restaurant is identified as the person who ordered the abandonment.
+
+Capture warning:
+- `post_time_missing`: the post time link was not found.
+
+Traceability boundary:
+All character names, ages, family names, the deceased biological father, false adoption record, evidence case, child-welfare procedures, guardianship, investigation, criminal charges, restitution, hospital reforms, Reed Night Desk, and long-term reunification are generated expansion. They preserve the captured narrative spine but are not claimed as source facts.

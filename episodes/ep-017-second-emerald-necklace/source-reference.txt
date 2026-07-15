@@ -1,0 +1,43 @@
+EPISODE 017 SOURCE REFERENCE AND CONTENT FILTER
+
+Primary local capture:
+E:\EOS\EOS-StoryTraffic\ep17_1336181945069809.json
+
+Source SHA-256:
+5603CAD31E39910A8A81B78C4D947C27578FC55BAC229070BC7E79F5E011FB88
+
+Original Facebook reel:
+https://www.facebook.com/reel/1336181945069809
+
+Captured author:
+Artshin
+
+Captured continuation/article URL:
+https://nextpart.fun/2026/05/07/part-2-where-did-you-get-that-necklace-she-shouted/
+
+Accepted narrative source:
+- `sources[0].post.caption`, after removal of Facebook interface and engagement residue.
+- Only observable necklace, bedroom, vanity, engraving, nun, and grave-question events and dialogue were treated as plot facts.
+
+Documented source facts:
+- An older woman angrily demands to know where a maid obtained an emerald pendant and has been holding the maid before releasing her.
+- The maid is terrified and says the necklace is the only thing her parents left her.
+- The older woman's anger changes to shock, recognition, and fear.
+- In a luxurious bedroom with chandelier reflections and a vanity, the older woman opens a velvet jewelry box.
+- The box contains an identical emerald necklace with the same silver chain and unusual appearance.
+- Both pendants carry the same engraved date on their silver backs.
+- The maid says a nun told her that if she found the second necklace, she should ask who is buried in her mother's grave.
+
+Excluded noisy or non-story content:
+- `sources[0].post.article.title` and `image`: promotional page packaging rather than new story facts.
+- `sources[0].post.article.content`: excluded as a near-verbatim repetition of the caption's necklace scene, not a genuine continuation. Its short opening setup adds no event after the grave question.
+- Article-only camera, sound, lightning-symbol, grab, crash-zoom, macro-shot, bass-hit, `HARD CUT TO BLACK`, and CTA directions; treated as promotional production material.
+- Facebook author/following/original-audio labels, engagement strings, `See less`, CSS scrollbar residue, and `Part 2 in the comments` CTA.
+- The author's continuation-link comment and all audience comments, links, timestamps, profile labels, compliments, requests for another part, and empty comment markers.
+- Media delivery URL and scrape metadata beyond traceability.
+
+Filtering judgment:
+The embedded article ends at the identical grave question and adds no subsequent plot. Its introductory bedroom setup was unnecessary because the accepted caption itself identifies the bedroom, chandelier reflections, vanity, and jewelry box. It was therefore excluded as a duplicate promotional rendering.
+
+Generated-expansion boundary:
+All replacement names, ages, family relationships, twin history, clinic fire, Gabriel and Sister Agnes, Mae Donnelly, DNA and exhumation findings, trust structure, Edmund's crimes, employee reforms, convictions, restitution, archival project, corrected graves, and final relationship between aunt and niece are generated expansion designed to complete the accepted narrative spine.

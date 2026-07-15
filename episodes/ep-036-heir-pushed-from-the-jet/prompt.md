@@ -1,0 +1,8 @@
+## Keyframe Image Prompt
+
+Photorealistic vertical cinematic frame on a sunlit private-airport ramp. Young adult Black woman Maya stands on the lower jet stair in a simple cardigan and glasses, closed beige handbag on her shoulder, frozen immediately before contact. Adult pilot Grant stands above in uniform with one open hand inches from her shoulder, mouth closed. The jet door is open, ground crew remain distant, and no SUV is visible. Harsh heat and white aircraft contrast with her modest clothing, low eye-level medium-wide camera, natural realism, tense pre-assault stillness.
+
+## 15-Second Video Prompt
+
+Cinematic trailer, 9:16. Five scenes with explicit hard cuts. 0-3s: Grant shoves Maya from the exact frozen stair position, sending her handbag across the tarmac, and snaps, "Don't even think about coming up here. Girls like you don't get on flights like this." 3-6s: hard cut to a black SUV stopping as Celeste kneels beside the scraped Maya and says, "Easy, sweetheart." 6-9s: hard cut to Maya looking into Celeste's face and breaking, "Mom..." 9-12s: hard cut to Celeste facing the pilot beneath the jet wing and declaring, "My daughter boards first. This aircraft belongs to our family." 12-15s: hard cut to Maya adjusting her glasses, stepping toward the stairs, and asking, "So... should I board now?" End before Celeste calls security. Sound: shoe scrape, bag contents scattering, SUV brakes, wind, fabric movement, hard-cut impacts, and stunned ramp silence. Music: sharp aviation-thriller pulses build into a controlled power reversal, duck under every line, and end on one low impact.
+

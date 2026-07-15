@@ -1,0 +1,31 @@
+EPISODE 029 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep29_1521624576151236.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-029-villa-they-tried-to-steal\ep29_1521624576151236.json
+
+SHA-256:
+C702DFBF134E12A0B928C5D6A03E5095D6DC5FE447C37746F81EEC14AA878E78
+
+Facebook source:
+https://www.facebook.com/reel/1521624576151236
+
+Website source:
+https://seenews.nevvs.pp.ua/2026/04/07/part-2-just-sleep-in-the-shed/
+
+FACEBOOK STORYLINE
+At night outside a glowing villa, a husband tells his wife, who is holding bags, to sleep in the shed. His mother says the villa is family property while people inside laugh. The wife calmly agrees, then says fresh air is good for people about to be homeless. She raises her phone and says guards are already coming. The husband and mother-in-law panic, sirens approach, and the wife confirms that she has already acted.
+
+WEBSITE STORYLINE
+The website article repeats the same villa expulsion, shed demand, family-property claim, calm reversal, homelessness warning, approaching guards and sirens, and wife's confirmation. Despite its Part 2 label, the captured main English storyline ends at the same point and adds no distinct narrative event.
+
+FILTERING JUDGMENT
+The website storyline was recorded but excluded from double-counting as a near-verbatim duplicate. The complete JSON remains unchanged. Camera and sound phrasing, the promotional title and image, call to action, Facebook UI/CSS and engagement residue, and social comments were ignored rather than deleted and were not treated as story facts.
+
+EVALUATION NOTES
+The candidate has high hook potential through domestic humiliation, visible class contrast, an ownership reversal, approaching enforcement, and controlled dialogue. The source supplies no verified title, reason for the dispute, legal authority for guards, or resolution. Expansion must distinguish a dramatic ownership claim from lawful possession, protect uninvolved guests and workers, document financial coercion, and require title records and court process rather than private forced eviction.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, Linden House and trust ownership, forged deed, title monitoring, emergency court order, security and deputy roles, loan attempt, financial-coercion history, document and digital evidence, divorce and legal outcomes, worker restitution, title-fraud clinic, shed conversion, and final resolution are generated expansion built around the accepted source storyline.

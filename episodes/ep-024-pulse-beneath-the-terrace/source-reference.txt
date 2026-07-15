@@ -1,0 +1,31 @@
+EPISODE 024 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep24_3186321861570531.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-024-pulse-beneath-the-terrace\ep24_3186321861570531.json
+
+SHA-256:
+8F9033480A9260D9F4DE49813AC96668A84C266721C6063E6DC5AC4A1FD40300
+
+Facebook source:
+https://www.facebook.com/reel/3186321861570531
+
+Website source:
+https://nextpart.fun/2026/04/16/part-2-sir-i-can-help-your-leg/
+
+FACEBOOK STORYLINE
+On a luxurious terrace, a barefoot eight-year-old boy lands on a table in front of a wealthy wheelchair user and says he can fix the man's leg. The man mocks him and promises a million dollars. The boy kneels, touches the man's leg, and asks him to count. The leg twitches twice, the man begins pushing himself upward, and his mockery becomes fear. The boy whispers something that creates recognition tied to a person the man believed was buried years earlier, and the man says the situation is impossible.
+
+WEBSITE STORYLINE
+The website retells the same terrace challenge, touch, count, twitch, and attempted rise. Its distinct incremental dialogue asks how long the task will take, and the boy answers that it will take only a few seconds. The captured website storyline ends during the attempted rise and supplies no identity, whispered message, or resolution.
+
+FILTERING JUDGMENT
+The overlapping website narration was excluded from double-counting, while its two distinct short dialogue beats were combined with the Facebook storyline. The complete JSON remains unchanged. Camera and music directions, the promotional title and image, call to action, Facebook UI/CSS and engagement residue, video data, and social comments were ignored rather than deleted and were not treated as story facts.
+
+EVALUATION NOTES
+The candidate has high hook potential through a sudden physical interruption, public class contrast, an enormous wager, visible movement, and a whispered recognition twist. It also carries a high disability-misrepresentation risk. Expansion must preserve the observed leg movement and recognition while refusing a miracle-cure interpretation, separating wheelchair use from wrongdoing, and grounding all medical claims in a limited device-assisted response followed by independent evaluation.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, event and foundation context, mother's identity and survival, implant and calibration mechanism, laboratory fire details, medical explanation, research and patent misconduct, investigation, legal outcomes, participant compensation, million-dollar allocation, research reforms, counseling, mobility lab, and final resolution are generated expansion built around the combined accepted storyline.

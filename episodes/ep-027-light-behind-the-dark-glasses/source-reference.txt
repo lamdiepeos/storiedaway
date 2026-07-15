@@ -1,0 +1,31 @@
+EPISODE 027 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep27_1363682468899601.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-027-light-behind-the-dark-glasses\ep27_1363682468899601.json
+
+SHA-256:
+8A356113EF5B3B4FC8C4D26ED60794A33DFDAC658AE729CC9450E0CBAE5DB9DA
+
+Facebook source:
+https://www.facebook.com/reel/1363682468899601
+
+Website source:
+https://seenews.nevvs.pp.ua/2026/04/05/part-2-your-daughter-is-not-blind/
+
+FACEBOOK STORYLINE
+In a park, a dirty boy points at a father and says his daughter is not blind and that someone is doing this to her. The daughter sits in sunglasses with a white cane. A woman identified as the father's wife runs toward them, telling him not to listen. The boy accuses the wife. The girl turns toward the boy and tells her father she sees light. The wife reacts with panic, and the boy says they are too late.
+
+WEBSITE STORYLINE
+The website article repeats the same park confrontation, father, daughter in sunglasses with a white cane, running wife, accusation, light perception, panic, and final too-late statement. Despite its Part 2 label, the captured main English storyline ends at the same point and adds no distinct narrative event.
+
+FILTERING JUDGMENT
+The website storyline was recorded but excluded from double-counting as a near-verbatim duplicate. The complete JSON remains unchanged. Camera and sound phrasing, the promotional title and image, call to action, Facebook UI/CSS and engagement residue, video data, and social comments were ignored rather than deleted and were not treated as story facts.
+
+EVALUATION NOTES
+The candidate has high hook potential through a direct public accusation, a child's unexpected light perception, a running caregiver, and a family betrayal premise. It also carries high disability-misinformation and medical-abuse risk. Expansion must preserve the girl's real visual impairment, avoid treating orientation toward sound as proof of sight, require urgent independent medical testing, and separate accessibility-tool use from dishonesty or failure.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, medication mechanism, boy and housekeeper connection, emergency response, toxicology and ophthalmology findings, clinic and trust scheme, evidence chain, child-protection review, legal outcomes, medical-record corrections, restitution, accessibility safeguards, gradual visual recovery, and final resolution are generated expansion built around the accepted source storyline.

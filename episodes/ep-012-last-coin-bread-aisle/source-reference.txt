@@ -1,0 +1,42 @@
+EPISODE 012 SOURCE REFERENCE
+
+Primary local capture:
+E:\EOS\EOS-StoryTraffic\ep12_885448604581647.json
+
+Verified local source state:
+- Restored at the recorded root path, 4,812 bytes.
+- SHA-256: `A9F5300FEEDD66C3C78BC5B2601D3BE438EBDACF77502DE449064A18B8599001`
+
+Original Facebook reel:
+https://www.facebook.com/reel/885448604581647
+
+Captured author:
+Story Makers
+
+Captured source title:
+The Supermarket Coins and The Lost Grandchild
+
+External continuation link:
+None captured.
+
+Source material actually used:
+- Local JSON-like capture containing comments syntax that is invalid in strict JSON but does not affect the embedded story text.
+- Embedded `story.part_1` and `story.part_2` fields.
+- The comments placeholder was not treated as source content or plot evidence.
+
+Documented source facts:
+- A poorly dressed little girl stands near supermarket bakery shelves holding a few coins and looking at a small loaf.
+- An elegant woman knocks down the coins, crushes them beneath her heel, and insults the child as a beggar.
+- The girl says her mother told her to wait every Sunday for the man who buys two loaves.
+- An older bakery worker recognizes a scar on the girl's wrist from the night a terrified young mother carried a baby into the parking lot and begged him to hide her.
+- The girl's final protected coin has an old folded note taped to it.
+- The note says that if the girl returns alone, she must reach her grandfather before others see her.
+- The elegant woman was present on the earlier night and was the person the mother fled.
+- The child recognizes the woman as her aunt.
+
+Capture warning:
+- `post_time_missing`: the post time link was not found.
+- The local file contains a JavaScript-style comment in its comments array and is not valid strict JSON; the file was read as captured text and not modified.
+
+Traceability boundary:
+All character names, ages, the child's recent separation from her mother, bus and motel details, grandfather's company and trust, false death certificate, clinic confinement, evidence trail, guardianship and advocacy procedures, prosecution, restitution, Two Loaves Desk, supermarket reforms, and long-term family resolution are generated expansion. They preserve the captured narrative spine but are not claimed as source facts.

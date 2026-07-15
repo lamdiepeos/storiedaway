@@ -1,0 +1,41 @@
+EPISODE 009 SOURCE REFERENCE
+
+Primary local capture:
+E:\EOS\EOS-StoryTraffic\ep9_1378901077588504.json
+
+Original Facebook reel:
+https://www.facebook.com/reel/1378901077588504
+
+Captured author:
+Story Makers
+
+Captured source title:
+What He Was Pretending
+
+Captured continuation link recorded for traceability but not consulted:
+https://fullstory.fun/2026/04/26/%f0%9f%8e%ac-part-2-what-he-was-pretending/
+
+Source material actually used:
+- Captured `story.part_1` text.
+- Captured `story.part_2` continuation text embedded in the local file.
+- Captured comments only as audience/context signals, not as plot facts.
+
+Documented source facts:
+- A barefoot wife in a white pajama top listens through a half-open wooden bedroom door at night.
+- Her husband sits close to his silver-haired mother beside a warm bedside lamp.
+- The husband says he cannot continue pretending.
+- His mother warns him to lower his voice or he will wake his wife.
+- The husband says it may be time for his wife to wake up.
+- A floorboard creaks and the mother notices the wife at the door.
+- When confronted, the husband admits that he initially pretended to love his wife.
+- The mother says she instructed him because the wife was fragile and needed stability and the house.
+- The husband says the love later became real.
+- The mother reveals that the wife still does not know why the marriage happened in the first place.
+
+Capture warnings and normalization:
+- `post_time_missing`: the post time link was not found.
+- The local file contains a complete JSON object followed by an unrelated Markdown-like/Japanese text suffix, so the whole file does not parse as strict JSON.
+- The valid captured JSON object and its two story fields were read directly; the trailing suffix was ignored and the source file was not modified.
+
+Traceability boundary:
+All character names, crash and recovery history, Arden Trust mechanics, financial scheme, evidence, legal process, annulment, institutional reform, reconciliation, second marriage, and final resolution are generated expansion. They preserve the captured narrative spine but are not claimed as source facts.

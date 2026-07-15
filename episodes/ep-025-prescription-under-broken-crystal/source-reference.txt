@@ -1,0 +1,31 @@
+EPISODE 025 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep25_1307359071360031.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-025-prescription-under-broken-crystal\ep25_1307359071360031.json
+
+SHA-256:
+C0B0D55250C4B2B87CA8E2E0FDE504856501F3FC7CA93F10A10765A3B52B9AAF
+
+Facebook source:
+https://www.facebook.com/reel/1307359071360031
+
+Website source:
+https://nextpart.fun/2026/04/21/part-2-do-you-know-what-you-did/
+
+FACEBOOK STORYLINE
+A crystal shelf shatters in a luxury showroom, leaving a small boy in torn school clothes terrified among the fragments. The manager angrily confronts him, and a wealthy customer mocks his inability to pay. The boy empties coins, wrinkled bills, and a prescription from his backpack, saying his mother sent him for medicine. The manager recognizes the mother's name. The elderly company founder recognizes the child as that woman's son and says she did not steal, referring to the company's decade-old public accusation against her.
+
+WEBSITE STORYLINE
+The website retells the showroom accident and prescription recognition, then adds distinct continuation. The founder asks where the boy's mother is and learns she is in a car. He shows a photograph and identifies the missing woman as his daughter. The manager says the company was told she died, the boy says his mother believed the founder told everyone that, and the boy accuses the manager of pushing his mother down stairs and causing her illness.
+
+FILTERING JUDGMENT
+The website's overlapping opening was excluded from double-counting, while its distinct car location, father-daughter relationship, death-story conflict, and staircase accusation were combined with the Facebook storyline. The complete JSON remains unchanged. Camera phrasing, the promotional title and image, call to action, Facebook UI/CSS and engagement residue, video data, and social comments were ignored rather than deleted and were not treated as story facts.
+
+EVALUATION NOTES
+The candidate has high hook potential because a public accident reverses through a prescription, a recognized name, an old family photograph, and a child's direct accusation. The source offers a substantial continuation but no proof or resolution. Expansion must treat the staircase claim as an allegation requiring corroboration, preserve the mother's need for medicine and earlier public accusation, and avoid resolving responsibility through status, emotion, or the founder's belief alone.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, showroom route, shelf defect, mother's diagnosis, inventory scheme, forged death notice, intercepted mail, witnesses and archived evidence, independent investigation, legal and civil outcomes, company reforms, medical continuity, family boundaries, and final resolution are generated expansion built around the combined accepted storylines.

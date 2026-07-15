@@ -1,0 +1,31 @@
+EPISODE 023 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep23_27348089594775017.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-023-question-before-the-safe-opened\ep23_27348089594775017.json
+
+SHA-256:
+F5B5717BA60BC9D8C397B8E947D198FD1CC6AC094DC0EEB8221CA5301A3789DF
+
+Facebook source:
+https://www.facebook.com/reel/27348089594775017
+
+Website source:
+https://nextpart.fun/2026/04/26/%f0%9f%8e%acpart-2the-boy-asked-one-question-about-the-safe-then-the-room-forgot-how-to-breathe/
+
+FACEBOOK STORYLINE
+In a luxurious reception room, a wealthy man publicly offers a small boy in a brown tweed jacket ten thousand dollars to open a huge ornate golden safe. The boy twice asks whether he is sure. An elegant older woman becomes frightened as the boy approaches a hidden point in the gold. A small internal click drains the wealthy man's face. The boy says his father predicted the man would beg him not to touch the safe, and the handle begins turning by itself while the wealthy man and older woman show that they know what is inside.
+
+WEBSITE STORYLINE
+The website article repeats the same reception, ten-thousand-dollar challenge, repeated question, frightened older woman, hidden click, father's warning, and self-turning handle. Despite its Part 2 label, the captured main English storyline ends at the same point and adds no distinct event.
+
+FILTERING JUDGMENT
+The website storyline was recorded but excluded from double-counting as a near-verbatim duplicate. The complete JSON remains unchanged. The promotional title and image, camera-style phrasing, call to action, Facebook UI/CSS and engagement residue, video data, scrape warning, and social comments were ignored rather than deleted and were not treated as story facts.
+
+EVALUATION NOTES
+The candidate has high hook potential because a public humiliation reverses through a child who recognizes a hidden mechanism and knows the adults fear its contents. The source supplies no identity, contents, investigation, or resolution. Expansion must preserve the golden safe, brown tweed jacket, monetary challenge, repeated confirmation, hidden click, father's warning, fearful wealthy man and older woman, and turning handle while clearly separating all later evidence and outcomes as generated output.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, event purpose, scholarship context, father's profession and death, calibration token, safe design, hidden records, financial scheme, older woman's role and silence, forensic investigation, criminal and civil outcomes, company reforms, education trust, corrected conviction, verification lab, and final resolution are generated expansion built around the accepted source storyline.

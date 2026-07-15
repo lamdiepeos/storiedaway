@@ -1,3 +1,5 @@
+[NEW ALL-CAPS PART 2 TITLE]
+
 PART TEMPLATE
 
 Episode ID: ep-001-example
@@ -11,6 +13,10 @@ ROLE OF THIS PART
 PART TEXT
 
 [Write Part 2 here]
+
+WORD-COUNT GATE
+
+Keep the finalized part between 500 and 1,000 words, normally targeting the upper half of the range.
 
 TRANSITION OUT
 

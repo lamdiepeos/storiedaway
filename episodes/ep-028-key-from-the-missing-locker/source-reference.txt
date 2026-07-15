@@ -1,0 +1,31 @@
+EPISODE 028 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep28_1461043275756305.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-028-key-from-the-missing-locker\ep28_1461043275756305.json
+
+SHA-256:
+1DEF27FA304E9FB0A9F935D8B1242CB90884CEE00714A4EDD46A3FB839F76EF4
+
+Facebook source:
+https://www.facebook.com/reel/1461043275756305
+
+Website source:
+https://seenews.nevvs.pp.ua/2026/04/06/part-2-full-episode-the-shove-echoed-louder-than-any-weight-drop/
+
+FACEBOOK STORYLINE
+In a gym, an influencer shoves a cleaning woman into a bench and loudly accuses her of entering the influencer's locker. A small numbered key falls from the cleaner's hand. A man recognizes the number as belonging to his sister during the week she disappeared. The influencer reacts with disbelief and fear. Police enter the gym, and the man tells the influencer to tell them what she did.
+
+WEBSITE STORYLINE
+The website article repeats the same shove, public locker accusation, cleaning woman, numbered key, missing sister, influencer reaction, police arrival, and final demand. Despite its Part 2 label, the captured main English storyline ends at the same point and adds no distinct narrative event.
+
+FILTERING JUDGMENT
+The website storyline was recorded but excluded from double-counting as a near-verbatim duplicate. The complete JSON remains unchanged. Camera phrasing, the promotional title and image, call to action, Facebook UI/CSS residue, video data, and social comments were ignored rather than deleted and were not treated as story facts.
+
+EVALUATION NOTES
+The candidate has high hook potential through public workplace humiliation, an identifiable physical object, a missing-person connection, a suspect's visible reaction, and police arrival. The source supplies no reason for the locker access, proof that the influencer possessed the key, contents of the numbered locker, missing sister's fate, or resolution. Expansion must distinguish suspicion from proof and protect the cleaning worker's authorized role and assault claim from being overshadowed by the missing-person mystery.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, water-leak work order, gym and locker numbers, charity-account scheme, missing sister's profession and survival, locker contents, coercive threats, legal-aid contact, forensic and financial evidence, investigation, legal outcomes, worker restitution, gym reforms, sibling recovery, and final resource-center scene are generated expansion built around the accepted source storyline.

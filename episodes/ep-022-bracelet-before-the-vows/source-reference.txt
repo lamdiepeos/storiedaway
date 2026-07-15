@@ -1,0 +1,31 @@
+EPISODE 022 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep22_1153206253577937.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-022-bracelet-before-the-vows\ep22_1153206253577937.json
+
+SHA-256:
+DBD21D8CEAA0BC5D86F3903C4FBCF1149C979CB74C35A49EB4F017F614B104A6
+
+Facebook source:
+https://www.facebook.com/reel/1153206253577937
+
+Website source:
+https://nextpart.fun/2026/04/26/%f0%9f%8e%acpart-2the-boy-ran-barefoot-into-the-wedding-then-the-groom-saw-elenas-bracelet/
+
+FACEBOOK STORYLINE
+A barefoot boy in torn clothes runs into a wealthy chapel wedding and stops at the groom. He gives the groom an old engraved silver bracelet, saying his mother told him to deliver it that day. The groom recognizes the bracelet and the name Elena, falls to his knees, and learns that Elena is the boy's mother. The groom sees a resemblance, asks where she is, and the bride asks who the child is before the boy answers further.
+
+WEBSITE STORYLINE
+The website article repeats the same chapel, barefoot-boy, bracelet, Elena-recognition, resemblance, and bride-question sequence. Despite being labeled Part 2, the captured main English storyline ends at the same point and adds no distinct narrative event.
+
+FILTERING JUDGMENT
+The website storyline was recorded but excluded from double-counting as a near-verbatim duplicate of the Facebook storyline. The complete JSON remains unchanged. The promotional title and image, camera-style wording, call to action, Facebook UI/CSS residue, engagement residue, media data, and social comments were ignored rather than deleted and were not treated as story facts.
+
+EVALUATION NOTES
+The candidate has high hook potential because the child interrupts a wedding with a physical object the groom immediately recognizes. The source supplies a strong mystery and implied father-son relationship but no continuation or resolution, so expansion must preserve the bracelet, missing mother, wedding interruption, groom's recognition, and bride's unanswered question while clearly labeling all investigative and ending material as generated output. The duplicate website capture adds traceability but no additional plot foundation.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, the mother's location and illness, travel details, the groom's prior belief that she died, family interference, forged records and messages, exact paternity evidence, independent advocates, investigation, criminal and civil outcomes, institutional reforms, co-parenting structure, and final family resolution are generated expansion built around the accepted source storyline.

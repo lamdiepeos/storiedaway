@@ -1,3 +1,5 @@
+[NEW ALL-CAPS FULL-STORY TITLE]
+
 EPISODE FILE TEMPLATE
 
 Episode ID: ep-001-example
@@ -27,7 +29,7 @@ Begin with the final Super Hook. This opening must align with `video-intro.md` a
 Expand the plot with explicit progression, continuity, and scene-to-scene logic.
 
 [Ending]
-Deliver a concrete, comprehensive ending. Do not leave the story unresolved or cut off midway.
+Deliver a concrete, comprehensive ending. Do not leave the story unresolved or cut off midway. Finish with the exact marker `THE END`.
 
 SEGMENTATION NOTE
 This full-story file is the master text. Break it into sequential `example-story-part-N.txt` files that preserve order and maintain clean transitions between parts.
@@ -38,3 +40,6 @@ QA CHECKLIST
 - No invented plot foundation replaces the scraped source.
 - Ending is complete and satisfying.
 - Tone and style are consistent through the episode.
+- The narrative contains approximately 3-5 parts of 500-1,000 words each.
+- Every source character name has been changed consistently across the package.
+- The completed narrative ends with `THE END`.

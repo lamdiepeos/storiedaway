@@ -1,0 +1,18 @@
+SOURCE REFERENCE
+
+Episode ID: ep-006-waitress-in-red
+Story Slug: waitress-in-red
+
+Local source 01: E:\EOS\EOS-StoryTraffic\1664392871562571.json
+Link web 01: https://www.facebook.com/reel/1664392871562571
+Link web 02 (captured continuation link, not consulted): https://fullstory.fun/2026/05/24/%f0%9f%8e%ac-part-2-the-woman-in-red-was-never-for-sale/
+
+Source platform: Facebook
+Source author: Story Makers
+Scraped at: 2026-07-13T10:35:37.235Z
+Normalized likes/comments/shares: unavailable
+Captured comments: 6
+Captured media records: 1
+Scraper warning: post time link was not found
+
+Only the local JSON payload was consulted. Display-count text embedded in the caption was not treated as normalized engagement data.

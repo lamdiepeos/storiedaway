@@ -1,0 +1,28 @@
+EPISODE 020 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep20_2358350018008844.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-020-girl-palace-said-was-dead\ep20_2358350018008844.json
+
+SHA-256:
+533D9DB12F178B155DA042DE1DB71868CB2026F1EE8D1C519FF2D6780593947D
+
+Facebook source:
+https://www.facebook.com/reel/2358350018008844
+
+Website source:
+https://nextpart.fun/2026/04/27/%f0%9f%8e%acpart-2-the-palace-boy-took-her-hand-then-remembered-the-girl-they-said-was-dead/
+
+FACEBOOK STORYLINE
+During a formal palace reception, a barefoot girl in a torn brown dress reaches a twelve-year-old boy seated in a motorized wheelchair and takes his hand. A controlling gray-suited man tries to remove her. She tells the boy to leave, claims she can make him walk, and says she knows what he forgot. She reminds him that he stood when she was taken away, triggering memories of two children being separated. The boy recognizes her as the girl everyone said had died and accuses the gray-suited man of saying he watched her drown.
+
+WEBSITE STORYLINE
+The website's main English storyline repeats the same palace encounter, dialogue, returning memory, recognition, and drowning accusation. It adds no event after the Facebook cliffhanger.
+
+FILTERING JUDGMENT
+The website storyline is a duplicate version and was not counted as a separate continuation. The complete JSON remains unchanged. Unrelated website material and social comments were ignored rather than deleted and were not recorded as story facts.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, royal roles, ledger and ribbon evidence, medical explanation, abduction and financial motive, independent investigation, legal outcomes, guardianship, institutional reforms, rehabilitation, corrected records, and final resolution are generated expansion built around the accepted Facebook narrative spine.

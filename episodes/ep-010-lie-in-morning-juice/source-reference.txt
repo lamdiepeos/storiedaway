@@ -1,0 +1,39 @@
+EPISODE 010 SOURCE REFERENCE
+
+Primary local capture:
+E:\EOS\EOS-StoryTraffic\ep10_1578439966549255.txt
+
+Original Facebook reel:
+https://www.facebook.com/reel/1578439966549255
+
+Captured author:
+Story Makers
+
+Captured source title:
+The Barefoot Boy and The Fake Blind Daughter
+
+Captured continuation link recorded for traceability but not consulted:
+https://fullstory.fun/2026/04/09/part-2-the-wife-spoke-too-quickly/
+
+Source material actually used:
+- JSON-formatted text in the local `.txt` capture.
+- Embedded `story.part_1` and `story.part_2` fields.
+- Captured comments only as audience/context signals; comments were not treated as plot facts.
+
+Documented source facts:
+- A barefoot boy carrying a dirty sack enters a millionaire's mansion driveway and accuses the wife of lying.
+- The daughter sits in a blue dress with dark sunglasses and a crutch.
+- The wife wears yellow and freezes when the boy says the daughter is not blind.
+- The daughter reacts visually to the boy's exact position.
+- The boy produces a tiny unlabeled bottle found near the hedge.
+- The daughter says her morning drink tastes bitter.
+- The boy heard the wife tell the cook not to forget the juice and heard instructions about the bitter bottle.
+- The father asks the daughter to look at him, and she looks directly at his face.
+- The daughter says the wife required her to pretend.
+- The daughter says the pretense only had to continue until papers were signed.
+
+Capture warning:
+- `post_time_missing`: the post time link was not found.
+
+Traceability boundary:
+All character names, ages, medical explanation, trust structure, financial motive, evidence trail, cook's circumstances, criminal case, child-advocacy procedures, Caleb's family placement, institutional reforms, and long-term resolution are generated expansion. They preserve the captured narrative spine but are not claimed as source facts.

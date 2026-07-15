@@ -1,0 +1,32 @@
+EPISODE 035 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep35_1450523513221813.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-035-bracelet-in-the-checkout-line\ep35_1450523513221813.json
+
+SHA-256:
+67C8A47B29418FFD9F63B6EA2B051DF90ADD394237A9EFA962E6FCECD8D01270
+
+Facebook source:
+https://www.facebook.com/reel/1450523513221813
+
+Website source:
+https://fullstory.fun/2026/04/26/%f0%9f%8e%ac-part-2-the-name-on-the-bracelet/
+
+FACEBOOK STORYLINE
+A young mother holding a crying newborn has two declined payments for diapers, wipes, milk, and bread while shoppers humiliate her. A woman in blue pays without conditions, then recognizes a name engraved on the baby's silver bracelet.
+
+WEBSITE STORYLINE
+The woman asks the baby's first and last name, connects them to her missing son and his letter about a pregnant partner, and the mother identifies herself before saying the son died. The woman realizes she has helped her own grandson.
+
+FILTERING JUDGMENT
+Accepted the website as a direct continuation after deduplicating the bracelet recognition. Ignored promotional, camera, sound, UI/CSS, engagement, warning, media, and comment residue without altering the JSON.
+
+EVALUATION NOTES
+High hook potential comes from the documented visual reversal and relationship mystery. The source does not supply verified identity, motive, evidence, legal authority, or complete resolution. Expansion therefore applies poverty dignity, postpartum support, kinship verification, parental authority, and non-transactional assistance gates and separates source clues from verified findings.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, Owen's accident and records, family verification and DNA, frozen account and benefits work, legal boundaries, settlement trust, grocery policy, pantry program, education, and final family arrangement are generated expansion.
+

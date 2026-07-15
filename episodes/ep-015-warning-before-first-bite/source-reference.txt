@@ -1,0 +1,48 @@
+EPISODE 015 SOURCE REFERENCE AND CONTENT FILTER
+
+Authoritative local capture supplied by user:
+E:\EOS\ep15_4447221632263670.json
+
+Source SHA-256:
+40D91C891A050992461572C8B84882BDD50A73A04B80F27509BA5C9328D20FD5
+
+Byte-identical earlier capture retained for traceability:
+E:\EOS\EOS-StoryTraffic\ep15_4447221632263670.txt
+
+The `.json` and `.txt` captures are both 8,126 bytes and have the same SHA-256. The user designated the JSON as authoritative; the TXT is preserved as a superseded duplicate and was not deleted.
+
+Original Facebook reel:
+https://www.facebook.com/reel/4447221632263670
+
+Captured author:
+Artshin
+
+Captured but unrelated article URL:
+https://nextpart.fun/2026/05/11/part-2-the-grand-ballroom-doors-exploded-open-so-loudly-that-the-violin-music-died-in-the-same-second/
+
+Accepted narrative source:
+- `sources[0].post.caption`, after removal of Facebook interface and engagement residue.
+- Only the observable Beverly Hills breakfast events and spoken warning were treated as plot facts.
+
+Documented source facts:
+- A billionaire breakfasts with his beautiful wife at an exclusive Beverly Hills café.
+- A ragged little boy bursts through the crowd and screams, `DON'T EAT THAT!`
+- The restaurant falls silent.
+- The trembling child points at the billionaire's plate and says he saw the wife secretly pour something into the food while her husband was not looking.
+- The billionaire freezes and the wife turns pale.
+- The billionaire orders his security team to test everything on the table.
+- Guests record, waiters stop, and the wife sits still while the results are pending.
+- When security returns, the warning proves to be only the first clue to a secret that will destroy the billionaire's understanding of his marriage.
+
+Excluded unrelated, noisy, or non-story content:
+- `sources[0].post.article.title`, `content`, and `image`: wholly unrelated wedding narrative involving ballroom doors, a little girl, stuffed bunny, groom, bride, necklace, locket photograph, and missing mother. None belongs to the café story.
+- The author's `NEXT EPISODE` comment and its link, which point to that unrelated wedding article.
+- All audience comments, including guesses about guards, poison, timing, and the boy's role; these are reactions, not plot facts.
+- Facebook author/following/original-audio labels, engagement strings, `See less`, CSS scrollbar residue, emoji, and the `Full story in the first comment` CTA.
+- Media delivery URL, profile and comment URLs, timestamps, scrape metadata, and `post_time_missing` warning as non-narrative capture data.
+
+Filtering judgment:
+The embedded article is not a duplicate continuation but an entirely different wedding story. It contributes zero plot facts to Episode 015. The cleaned Facebook caption is therefore the only narrative foundation.
+
+Generated-expansion boundary:
+All character names, ages, company and board structure, compound classification, medical review, Milo and Elena's relationship, disappearance and recovery, false psychiatric hold, double marriage, Philip and Dr. Keel, forged documents, criminal case, corporate reforms, restitution, and final café return are generated expansion designed to complete the accepted breakfast-warning spine.

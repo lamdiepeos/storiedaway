@@ -1,0 +1,45 @@
+EPISODE 014 SOURCE REFERENCE AND CONTENT FILTER
+
+Primary local capture:
+E:\EOS\EOS-StoryTraffic\ep14_1336915398497232.json
+
+Source SHA-256:
+570330E35169E8B86BD1CB74ADA4BACA8851678672F128F8D7DEE25E463F9F33
+
+Original Facebook reel:
+https://www.facebook.com/reel/1336915398497232
+
+Captured author:
+Artshin
+
+Captured continuation/article URL:
+https://nextpart.fun/2026/04/30/part-2-the-cafe-terrace-looked-like-a-place-where-nothing-ugly-could-ever-happen/
+
+Accepted narrative source:
+- `sources[0].post.caption`, after removal of Facebook interface residue.
+- Only its observable story events and spoken dialogue were treated as plot facts.
+
+Documented source facts:
+- An elegant café terrace has marble tables, porcelain, afternoon sunlight, and well-dressed guests.
+- A dirty barefoot boy touches an elegant woman's hair; she recoils and tells him not to touch her.
+- The boy says another woman has the same hair and reveals a jeweled silver hair clip.
+- The elegant woman recognizes the clip and is visibly shocked.
+- The boy says his mother told him he would find the woman at the café.
+- When asked where his mother is, the boy points toward a hedge walkway.
+- A woman with the face of the elegant woman's supposedly buried sister appears there.
+- Beside that woman is a man the elegant woman also buried the previous year.
+- The two figures walk toward her while the boy says she would not believe it.
+
+Excluded noisy or non-story content:
+- `sources[0].post.article.title`: promotional duplicate title, not a new story fact.
+- `sources[0].post.article.image`: thumbnail URL, not narrative evidence.
+- `sources[0].post.article.content`: excluded as a near-verbatim repetition of the Facebook teaser rather than a continuation; camera directions and the continuation CTA are promotional production material.
+- The embedded author/following/original-audio labels, engagement counts, `See less`, CSS scrollbar residue, emoji, and `Part 2 in the comments` CTA.
+- Media delivery URL and webpage parameters beyond source traceability.
+- The author's continuation-link comment and all audience comments, profile links, timestamps, labels, translation requests, religious remarks, and visual-quality criticism; none are story facts.
+
+Filtering judgment:
+The linked article adds no event beyond the Facebook caption and ends at the same cliffhanger. It was therefore treated as duplicate promotional material, not as a second narrative source or an actual Part 2.
+
+Generated-expansion boundary:
+All character names, ages, relationships, locations, foundation and trust structure, Lena Ortiz, Victor Rusk's crimes, the staged deaths, witness operation, evidence, arrest, prosecutions, restitution, therapy, divorce, health center, and final café return are generated expansion designed to complete the captured narrative spine without treating excluded material as plot evidence.

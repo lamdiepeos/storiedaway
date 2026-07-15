@@ -1,0 +1,28 @@
+EPISODE 018 SOURCE REFERENCE
+
+Primary scraped source
+- Platform: Facebook Reel
+- Author: Artshin
+- URL: https://www.facebook.com/reel/1751971502635774
+- Local capture: ep18_1751971502635774.json
+- Source SHA-256: 54CC4619CA8966E1512AFA064788D86FB618A04F6B6A890EAC0A9F21B27A49E6
+- Scraped at: 2026-07-14T08:16:17.604Z
+
+Embedded article reviewed for filtering
+- URL: https://nextpart.fun/2026/05/01/part-2-the-plate-shattered-before-anyone-could-breathe/
+- Classification: Near-verbatim promotional duplicate of the Facebook caption; not a story continuation.
+
+Accepted source facts
+- A hostile waiter shatters a plate of food and says the poor man does not deserve it.
+- A calm waitress says the man needs help.
+- The waiter grabs the weak man and drags him toward the café door while customers watch.
+- The owner enters, sees the man, and says they look alike.
+- The poor man asks whether the owner is really his brother.
+
+Excluded non-story content
+- Repeated article title, image, and duplicate scene text.
+- Camera-direction phrasing, heartbeat and bass directions, blackout instruction, and continuation CTA.
+- Facebook labels, UI/CSS residue, engagement strings, media-delivery URL, scrape metadata, and unrelated comments.
+
+Generated expansion boundary
+- All replacement names, childhood fire and separation history, photograph, DNA evidence, Cyrus Wren, financial theft, archive investigation, legal outcomes, employment reforms, Sibling Search Desk, and final relationship resolution are generated story development.

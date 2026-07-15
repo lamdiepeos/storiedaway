@@ -1,0 +1,124 @@
+{
+  "sources": [
+    {
+      "source": "facebook",
+      "url": "https://www.facebook.com/reel/4447221632263670",
+      "post": {
+        "author": "Artshin",
+        "caption": "2.3K208Artshin · FollowingArtshin · Original audioA billionaire was enjoying a quiet breakfast with his beautiful wife at an exclusive Beverly Hills café... until a ragged little boy burst through the crowd and screamed:“DON’T EAT THAT!”The entire restaurant fell silent.Trembling with fear, the child pointed straight at the billionaire’s plate and claimed he had just seen the wife secretly pour something into the food while her husband wasn't looking.The billionaire froze.His wife turned pale.Without saying a word, he ordered his security team to test every bite on the table.Guests grabbed their phones.Waiters stopped moving.And as the minutes ticked by, the wife sat perfectly still, unable to explain the terror in her eyes.But when the security guards finally returned with the test results, the billionaire realized the boy's warning wasn't the real shock...It was only the first clue in a terrifying secret that would destroy everything he thought he knew about his marriage. 👇Full story in the first comment. See less ::-webkit-scrollbar { -webkit-appearance: none; width: 7px; } ::-webkit-scrollbar-thumb { border-radius: 4px; background: var(--scroll-thumb); }32.2K43226336.6K570436",
+        "article": {
+          "source": "nextpart.fun",
+          "url": "https://nextpart.fun/2026/05/11/part-2-the-grand-ballroom-doors-exploded-open-so-loudly-that-the-violin-music-died-in-the-same-second/",
+          "title": "PART 2: The grand ballroom doors exploded open so loudly that the violin music died in the same second.",
+          "content": "A tiny girl stood alone beneath the glowing chandeliers, clutching an old stuffed bunny against her chest while hundreds of wedding guests turned toward her in confusion.\n\nThen her trembling voice broke the silence.\n\n“…Daddy?”\n\nThe entire wedding froze.\n\nThe bride slowly turned toward the groom, her smile disappearing instantly.\n\n“What did she say…?”\n\nBut the groom couldn’t answer.\n\nAll the color drained from his face as his hands began shaking uncontrollably.\n\nThen—\n\nthe groom’s mother suddenly stood from the front row.\n\nHer eyes locked onto the silver necklace hanging around the little girl’s neck.\n\n“That necklace…”\n\nWhispers spread through the ballroom like panic.\n\nThe frightened child took one small step forward while holding her bunny tighter.\n\nThe groom’s mother knelt slowly in front of her, trembling as she opened the tiny locket around the girl’s neck.\n\nInside was an old photograph—\n\nthe groom holding a newborn baby beside a crying young woman.\n\nThe older woman gasped sharply.\n\nTears flooded her eyes instantly.\n\n“…she’s alive…”\n\nThe bride stepped backward in horror.\n\nThe groom stood frozen in place.\n\nAnd the little girl whispered through tears—\n\n“Mommy said you never came back…”\n\nPart 2 in the comments.",
+          "publishedAt": null,
+          "modifiedAt": null,
+          "image": "https://nextpart.fun/wp-content/uploads/2026/05/image-83.png"
+        },
+        "timeText": null,
+        "timeDetail": null,
+        "timeUrl": "https://www.facebook.com/reel/4447221632263670",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://scontent.fhan14-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMogN3ROSHKeqUGJSBhzkB9zYEL0rjrpVEgufIqtlD4-Ztr_7yWmFAW2xbhnr6KiSOzx8N_lnXUwKuw4VQl3OlH8ovy-rP7FCFL4H8.mp4?_nc_cat=103&_nc_oc=Adqi5EwEXzXfdN0-ynfAEHLuo1wGGmKqJ3Vi6b2Y3m68y53RhoATr9GB_NWiCrcEXz0&_nc_sid=9ca052&_nc_ht=scontent.fhan14-3.fna.fbcdn.net&_nc_ohc=NLY_nfESxDUQ7kNvwGyhodC&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfcjJhdjEtcjFnZW4ydnA5LW0zX3EyMCIsInZpZGVvX2lkIjo0NDQ3MjIxNjMyMjYzNjcwLCJvaWxfdXJsZ2VuX2FwcF9pZCI6MCwiY2xpZW50X25hbWUiOiJ1bmtub3duIiwieHB2X2Fzc2V0X2lkIjoyNzU4MzM1MjMxNzkxNjIyNiwiYXNzZXRfYWdlX2RheXMiOjQxLCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6MTAsImJpdHJhdGUiOjQ3MDgyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-yo6slSI3CeqQAT_lZ3YXw&_nc_ss=7c2a8&_nc_zt=28&oh=00_AQBdk7ArDyrSkpAwzlbETlbwFzfAiTmAe4n1Um92Uzfp1w&oe=6A5BB118"
+          }
+        ]
+      },
+      "engagement": {
+        "likes": null,
+        "comments": null,
+        "shares": null
+      },
+      "comments": [
+        {
+          "author": "Artshin",
+          "isAuthor": true,
+          "type": "comment",
+          "replyTo": null,
+          "text": "· · NEXT EPISODE https://nextpart.fun/.../part-2-the-grand-ballroom-doors.../",
+          "links": [
+            {
+              "text": "https://nextpart.fun/.../part-2-the-grand-ballroom-doors.../",
+              "url": "https://nextpart.fun/2026/05/11/part-2-the-grand-ballroom-doors-exploded-open-so-loudly-that-the-violin-music-died-in-the-same-second/?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExbXFlMjFPNGxTaVpnckFJN3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4SnPBd7qA2Kf-nO-0cVKGNBJFoxD9Oskpu8sH891SpF5Ox3MCqf6yvG8yapA_aem_a9y1tAgDnt5OX65D-tyt0A"
+            }
+          ],
+          "timeText": "5w",
+          "timeDetail": "Wednesday, June 3, 2026 at 11:44 AM",
+          "timeUrl": "https://www.facebook.com/reel/4447221632263670/?comment_id=2799919267044794",
+          "label": "Comment by Artshin 5 weeks ago",
+          "replies": []
+        },
+        {
+          "author": "Magdalena Rovero Labus",
+          "isAuthor": false,
+          "type": "comment",
+          "replyTo": null,
+          "text": "· Don’t eat guard",
+          "links": [],
+          "timeText": "5w",
+          "timeDetail": "Thursday, June 4, 2026 at 10:37 PM",
+          "timeUrl": "https://www.facebook.com/reel/4447221632263670/?comment_id=3742469509227959",
+          "label": "Comment by Magdalena Rovero Labus 5 weeks ago",
+          "replies": []
+        },
+        {
+          "author": "Gloria Dimailig",
+          "isAuthor": false,
+          "type": "comment",
+          "replyTo": null,
+          "text": "· Good boy save the billionaire",
+          "links": [],
+          "timeText": "5w",
+          "timeDetail": "Thursday, June 4, 2026 at 6:14 AM",
+          "timeUrl": "https://www.facebook.com/reel/4447221632263670/?comment_id=921594170923023",
+          "label": "Comment by Gloria Dimailig 5 weeks ago",
+          "replies": []
+        },
+        {
+          "author": "Glenn Forde",
+          "isAuthor": false,
+          "type": "comment",
+          "replyTo": null,
+          "text": "· bodyguards are paid to take bullets",
+          "links": [],
+          "timeText": "5w",
+          "timeDetail": "Thursday, June 4, 2026 at 4:09 AM",
+          "timeUrl": "https://www.facebook.com/reel/4447221632263670/?comment_id=870061595502028",
+          "label": "Comment by Glenn Forde 5 weeks ago",
+          "replies": []
+        },
+        {
+          "author": "Peter Matt",
+          "isAuthor": false,
+          "type": "comment",
+          "replyTo": null,
+          "text": "· To.late he had alteady eaten",
+          "links": [],
+          "timeText": "5w",
+          "timeDetail": "Thursday, June 4, 2026 at 1:08 AM",
+          "timeUrl": "https://www.facebook.com/reel/4447221632263670/?comment_id=2124974765016805",
+          "label": "Comment by Peter Matt 5 weeks ago",
+          "replies": []
+        },
+        {
+          "author": "Kevin O Smart",
+          "isAuthor": false,
+          "type": "comment",
+          "replyTo": null,
+          "text": "· Guards test the poison",
+          "links": [],
+          "timeText": "5w",
+          "timeDetail": "Wednesday, June 3, 2026 at 6:34 PM",
+          "timeUrl": "https://www.facebook.com/reel/4447221632263670/?comment_id=1527153448940685",
+          "label": "Comment by Kevin O Smart 5 weeks ago",
+          "replies": []
+        }
+      ],
+      "warnings": [
+        "post_time_missing: post time link was not found"
+      ],
+      "scrapedAt": "2026-07-14T07:11:56.846Z"
+    }
+  ]
+}

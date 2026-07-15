@@ -1,0 +1,31 @@
+EPISODE 030 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep30_965391299334728.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-030-document-in-the-wedding-aisle\ep30_965391299334728.json
+
+SHA-256:
+272D48F0C3B4A50838BF9B6511BA3F8F20135895B1B5AD81E44F1D802A378757
+
+Facebook source:
+https://www.facebook.com/reel/965391299334728
+
+Website source:
+https://seenews.nevvs.pp.ua/2026/04/07/part-2-the-music-didnt-stop-it-was-ripped-away/
+
+FACEBOOK STORYLINE
+At a public wedding, the bride grabs a woman's clothing, drags her into the aisle, demands to know why she is there, and shakes her while guests watch and record. The frightened woman pulls a worn folded document from her coat, but it falls open on the floor. An older relative reads it, freezes, and looks at the groom. The groom loses color and appears to recognize what the paper means just before its truth is revealed.
+
+WEBSITE STORYLINE
+The website article repeats the same stopped music, public confrontation, bride's demands, frightened woman, falling document, older relative's reaction, and groom's recognition. Despite its Part 2 label, the captured main English storyline ends at the same suspended reveal and adds no distinct narrative event.
+
+FILTERING JUDGMENT
+The website storyline was recorded but excluded from double-counting as a near-verbatim duplicate. The complete JSON remains unchanged. Camera and sound directions, promotional title and image, call to action, Facebook UI/CSS and engagement residue, warnings, and social comments were ignored rather than deleted and were not treated as story facts.
+
+EVALUATION NOTES
+The candidate has high hook potential through public humiliation, an interrupted luxury wedding, a vulnerable witness, a physical document, an informed older relative, and the groom's visible recognition. The source does not reveal the document, the relationships, legal status, motive, or outcome. Expansion must verify any document independently, avoid treating facial reactions as proof, distinguish the bride's assault from the groom's conduct, and reach a lawful complete resolution.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, Hawthorne Conservatory, prior marriage, fabricated divorce decree, county registry certificate, suspicious loan, forged spousal acknowledgment, investigator and police arrival, forensic and financial evidence, canceled ceremony, criminal and family-court outcomes, Sienna's separate assault accountability, Clear Record Desk, and final fundraiser are generated expansion built around the accepted source storyline.

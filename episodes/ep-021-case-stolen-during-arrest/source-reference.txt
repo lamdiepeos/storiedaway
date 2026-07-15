@@ -1,0 +1,28 @@
+EPISODE 021 SOURCE REFERENCE
+
+Local source:
+E:\EOS\EOS-StoryTraffic\ep21_4064275970530916.json
+
+Episode copy:
+E:\EOS\EOS-StoryTraffic\episodes\ep-021-case-stolen-during-arrest\ep21_4064275970530916.json
+
+SHA-256:
+561E29ADADC370A58CFFE6988F8FEEE0A46B6F5C2C46386CF33C52A43D997620
+
+Facebook source:
+https://www.facebook.com/reel/4064275970530916
+
+Website source:
+https://nextpart.fun/2026/04/27/part-2-the-first-sound-was-a-body-hitting-metal/
+
+FACEBOOK STORYLINE
+In an airport parking garage, an officer forces a teenage boy against a black federal SUV, spills his backpack, rejects the boy's claim that the vehicle belongs to his father, and treats a badge wallet as fake. Two federal SUVs arrive, and a senior man orders the officer to release his son. The father notices a case missing from the open rear seat. The boy says he thought his father took it, redirecting suspicion toward the officer and the missing evidence.
+
+WEBSITE STORYLINE
+The website retells the same detention, badge-wallet reveal, father's arrival, and missing-case discovery. Its distinct additional beat is that someone closes the elevator doors immediately after the empty rear seat is noticed, suggesting the case is being moved out of sight.
+
+FILTERING JUDGMENT
+The overlapping website narration is a duplicate and was not counted twice. Its distinct elevator-door clue was combined with the Facebook storyline for further processing. The complete JSON remains unchanged. Unrelated website material and social comments were ignored rather than deleted and were not recorded as story facts.
+
+GENERATED-EXPANSION BOUNDARY
+All replacement names, access explanation, exact case purpose, accomplice and contracting scheme, witness recordings, evidence recovery, recusal, medical and trauma care, charges, trial results, agency and airport reforms, civil outcome, and final resolution are generated expansion built around the combined accepted storyline.

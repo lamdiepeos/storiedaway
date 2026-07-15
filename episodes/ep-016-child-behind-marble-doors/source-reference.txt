@@ -1,0 +1,49 @@
+EPISODE 016 SOURCE REFERENCE AND CONTENT FILTER
+
+Primary local capture:
+E:\EOS\EOS-StoryTraffic\ep16_1526515755711409.json
+
+Source SHA-256:
+B89855B798617C95DB005781D12F73FC43482D5FFFA85E97B7E9C711C10411E9
+
+Original Facebook reel:
+https://www.facebook.com/reel/1526515755711409
+
+Captured author:
+Artshin
+
+Captured continuation/article URL:
+https://nextpart.fun/2026/05/13/golden-afternoon-sunlight-poured-through-the-towering-glass-windows-of-the-morel-mansion-reflecting-across-endless-white-marble-floors/
+
+Accepted narrative source:
+- `sources[0].post.caption`, after removal of Facebook interface and engagement residue.
+- Only observable mansion-foyer events and dialogue were treated as plot facts.
+
+Documented source facts:
+- Golden afternoon light fills a mansion foyer with glass windows, white marble, an old clock, and a massive front door.
+- A crying small blonde girl with dirty cheeks and swollen eyes kneels beside a metal bucket and weakly mops the floor.
+- A man enters holding a white teddy bear, drops it when he sees the child, and freezes.
+- A woman enters behind him holding white wine and asks why he returned early.
+- The man asks why the child is on the floor; the woman claims she is a kitchen worker's daughter.
+- Sunlight reveals a silver bracelet on the child.
+- The man recognizes or reacts strongly to the bracelet and asks where it came from.
+- The child says her grandfather gave it to her, opens a hidden bracelet compartment, and produces a folded note.
+- The wine-holding woman tries to take the note, but the man reads it first.
+- The note says the child, named Lucie in the source, is his blood.
+- The child says her grandfather warned her not to trust the lady with the wine.
+- The wine glass falls and shatters.
+- An older woman on the staircase asks whether the wine-holding woman also told him the child was dead.
+- The child reaches for the man's hand while the accused woman retreats.
+
+Excluded noisy or non-story content:
+- `sources[0].post.article.title` and `image`: promotional page packaging, not new narrative evidence.
+- `sources[0].post.article.content`: excluded as a near-verbatim repetition of the Facebook cliffhanger, not a continuation. Camera directions, heartbeat cues, slow-motion phrasing, `CUT TO BLACK`, symbol, and continuation CTA are promotional production material.
+- Facebook author/following/original-audio labels, engagement strings, `See less`, CSS scrollbar residue, and `Part 2 in the comments` CTA.
+- The author's continuation-link comment and every audience comment, profile link, label, timestamp, and empty comment marker; none supplies story facts.
+- Scrape metadata and URLs beyond source traceability.
+
+Filtering judgment:
+The embedded article ends at the same staircase accusation and adds no subsequent event. It was classified as a duplicate promotional rendering rather than a genuine Part 2.
+
+Generated-expansion boundary:
+All replacement names, ages, family and trust structure, Clara's letters, June's guardianship, Arthur's investigation and stroke, DNA confirmation, forged ferry report, financial motive, staff coercion, police and court process, convictions, restitution, shared guardianship, records clinic, and final mansion resolution are generated expansion designed to complete the accepted narrative spine.
